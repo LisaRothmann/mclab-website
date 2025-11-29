@@ -10,7 +10,9 @@ We gratefully acknowledge financial support and collaboration from:
 -   \[Add Sorghum Trust, OPDT, Grain SA, ARC, etc.\]
 
 ::: funder-logos
-<!-- Add logos as you have them, for now you can leave this empty --> <!-- <img src="images/funders/sorghum-trust.png" alt="Sorghum Trust logo"> -->
+<!-- Add logos as you have them, for now you can leave this empty -->
+
+<!-- <img src="images/funders/sorghum-trust.png" alt="Sorghum Trust logo"> -->
 :::
 
 ## Institutional support
