@@ -5,36 +5,49 @@ page-layout: article
 
 Our work is made possible by a multidisciplinary team of researchers, students, technicians and collaborators.
 
-::::::: team-grid
-:::::: team-card
-<img src="images/team/lisa.jpg" alt="Lisa Rothmann" class="team-photo"/>
+# Principal Investigator
 
-::: team-name
-Dr Lisa Rothmann
-:::
+## Dr Lisa Rothmann
 
-::: team-role
-Principal Investigator \| Field Pathology & Epidemiology
-:::
+<img src="images/team/lisa.jpg" alt="Dr Lisa Rothmann" class="team-photo"/>
 
-::: team-links
-```         
-<a href="https://mclab-plant-pathology.co.za/lisa" target="_blank">Personal website</a>
-|
+**Principal Investigator \| Field Pathology & Epidemiology**
+
+<a href="https://mclab-plant-pathology.co.za/lisa" target="_blank">Personal website</a>\
 <a href="mailto:your.email@ufs.ac.za">Email</a>
-```
-:::
 
 <details class="team-details">
 
 <summary>More about Lisa</summary>
 
-<p>Short bio here: main research focus areas, teaching and supervision, and national/international roles.</p>
+Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the University of the Free State. Her work focuses on plant disease epidemiology, field pathology methodologies, and applied research that supports producers and agricultural industries across South Africa. She supervises postgraduate students, leads multi-stakeholder research programmes and maintains national and international collaborations in Sclerotinia epidemiology, disease forecasting, and disease management.
 
-<p>Selected projects: <a href="projects/2025-sunflower-head-rot.html">Sunflower head rot surveys and forecasting</a>, <a href="projects/2025-soybean-stem-rot.html">Soybean Sclerotinia stem rot management</a></p>
+**Selected projects:**\
+- [Sunflower head rot surveys and forecasting](projects/2025-sunflower-head-rot.html)\
+- [Soybean Sclerotinia stem rot management](projects/2025-soybean-stem-rot.html)
 
 </details>
-::::::
 
-<!-- Duplicate and edit for each team member -->
-:::::::
+# Postgraduate Students
+
+## Kwanele Sabela
+
+<img src="images/team/kwanele.jpg" alt="Kwanele Sabela" class="team-photo"/>
+
+**Graduate level:** MSc Agric\
+**Degree:** Plant Pathology (Interdisciplinary)\
+**Start:** 2023\
+**Graduated:** 2026
+
+<details class="team-details">
+
+<summary>More about Kwanele</summary>
+
+Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agronomy in 2025. His dissertation centered on 1) developing and validating a Standard Area Diagram Set (SAD) to strengthen the accuracy and reliability of Sclerotinia head rot severity assessments in sunflower and 2) premature desiccation of at-risk sunflower against Sclerotinia head rot.
+
+**Project & Outputs:**\
+[Quantifying Sclerotinia head rot of sunflower](projects/2025-sunflower-head-rot.html)
+
+</details>
+
+# Collaborators & Co-workers

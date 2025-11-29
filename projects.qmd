@@ -9,13 +9,10 @@ listing:
   image-height: "180px"
   grid-item-border: true
   sort: "date desc"
-  filter-ui: [title, categories]
+  filter-ui: [categories]
   categories: true
   fields: [image, title, categories, description]
   max-description-length: 180
 ---
 
-Our projects span field trials, diagnostics, modelling and producer extension across multiple crops. Use the filters to view **Current** or **Completed** projects.
-
-::: {#listing}
-:::
+Our projects span field trials, diagnostics, modelling and producer extension across multiple crops. Use the filters to view Current or Completed projects.

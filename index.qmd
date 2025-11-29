@@ -9,7 +9,7 @@ page-layout: article
 ::: col-md-8
 <h1 class="hero-title">
 
-Where field science meets farming strategy
+Bridging plant pathology, industry and farmers with actionable field science and future-focused research.
 
 </h1>
 
@@ -21,7 +21,7 @@ Epidemiology and field pathology as a bridge between plant pathologists, industr
 :::
 
 ::: {.col-md-4 .text-md-end .text-center}
-<img src="images/logo.png" alt="McLab logo" class="hero-logo"/>
+![McLab logo](images/mclab-logo.png){.hero-logo alt="McLab logo"}
 :::
 :::::
 ::::::
@@ -29,16 +29,31 @@ Epidemiology and field pathology as a bridge between plant pathologists, industr
 
 ## About us
 
-The McLab Field Pathology & Epidemiology Group focuses on plant disease epidemiology, field pathology and disease management within South African cropping systems. We work at the interface of field trials, diagnostics, modelling and producer-focused extension.
+We focus on understanding plant diseases within South African cropping systems. Our work centres on field pathology, epidemiology and practical disease management, supported by field trials, disease surveillance and data-driven interpretation. We aim to generate evidence that is relevant to producers, researchers and industry partners, and to communicate this knowledge in ways that support informed decision-making.
+
+Our research contributes to national efforts in several areas: understanding Sclerotinia diseases in oil and protein seed crops, advancing sorghum pathology, and maintaining ongoing disease surveillance in sorghum, soybean and sunflower systems. We are also gradually expanding into the human dimensions of plant pathology, including sociological and extension-focused work that helps connect scientific understanding with on-farm realities.
+
+We are committed to cultivating the next generation of researchers by creating opportunities for students and early-career scientists to participate in fieldwork, engage with stakeholders and develop core skills in applied plant pathology.
 
 [Read more about our background, vision and mission »](about.qmd)
 
 ## What we do
 
--   Field pathology and epidemiology across major crops and regions\
--   Disease forecasting and modelling to support timely management decisions\
--   Producer-focused extension and training, grounded in research\
--   Student development, supervision and mentoring in field pathology
+-   Field pathology and epidemiology across major crops and production regions
+
+-   Sclerotinia research in oilseed and protein crops
+
+-   Sorghum disease pathology and diagnostic support
+
+-   Disease surveillance in sorghum, soybean and sunflower
+
+-   Disease forecasting and modelling to support timely management decisions
+
+-   Extension and communication, sharing observations and translating research for producers
+
+-   Collaboration with industry and stakeholders to strengthen plant health understanding
+
+-   Training, supervision and mentoring in applied plant pathology for students
 
 ## Explore the lab
 
