@@ -1,0 +1,27 @@
+---
+title: "Sunflower Sclerotinia head rot surveys and forecasting"
+description: "National survey and modelling work on Sclerotinia head rot intensity, distribution and management in South African sunflower production."
+image: images/projects/sunflower-head-rot.jpg
+categories: [Current]
+date: 2025-01-15
+---
+
+## Overview
+
+Short paragraph describing the project objectives and scope.
+
+## Key questions
+
+-   How frequent and severe is Sclerotinia head rot across regions and seasons?\
+-   Which weather and management variables are associated with increased risk?\
+-   Where and how might forecasting add value for producers?
+
+## Outputs
+
+-   Extension articles / technical notes (links here)\
+-   Conference presentations / papers (links here)\
+-   Tools and resources (dashboards, calculators, etc.)
+
+## Status
+
+Field surveys and data analysis ongoing.

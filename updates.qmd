@@ -1,0 +1,18 @@
+---
+title: "What we are up to"
+page-layout: article
+
+listing:
+  contents: updates
+  type: default
+  image-align: left
+  image-height: "160px"
+  max-description-length: 120
+  sort: "date desc"
+  filter-ui: [title, date]
+---
+
+Short snapshots of what we are doing in the lab and in the field: field work, workshops, conferences and small milestones.
+
+::: {#listing}
+:::

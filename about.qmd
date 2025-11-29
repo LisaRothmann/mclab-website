@@ -1,0 +1,28 @@
+---
+title: "Background, Vision and Mission"
+page-layout: article
+---
+
+## Background
+
+\[Write 1–3 paragraphs about the origins and focus of the McLab here.\]
+
+## Vision
+
+> To provide robust, field-based epidemiological insights that support sustainable disease management and resilient farming systems in Southern Africa.
+
+(Adjust the wording to your own.)
+
+## Mission
+
+-   Generate high-quality field data and epidemiological analyses\
+-   Translate research into actionable guidance for producers and advisors\
+-   Build and maintain national and international collaborations\
+-   Train and mentor students in field pathology, epidemiology and science communication
+
+## Values
+
+-   Research quality and integrity\
+-   Service to producers and industry\
+-   Collegiality and student development\
+-   Openness to collaboration and innovation

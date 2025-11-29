@@ -1,0 +1,49 @@
+---
+title: "McLab Field Pathology & Epidemiology Group"
+page-layout: article
+---
+
+::::::: hero-section
+:::::: container
+::::: {.row .align-items-center}
+::: col-md-8
+<h1 class="hero-title">
+
+Where field science meets farming strategy
+
+</h1>
+
+<p class="hero-subtitle">
+
+Epidemiology and field pathology as a bridge between plant pathologists, industry and farmers, delivering actionable insights and cultivating the next generation of researchers.
+
+</p>
+:::
+
+::: {.col-md-4 .text-md-end .text-center}
+<img src="images/logo.png" alt="McLab logo" class="hero-logo"/>
+:::
+:::::
+::::::
+:::::::
+
+## About us
+
+The McLab Field Pathology & Epidemiology Group focuses on plant disease epidemiology, field pathology and disease management within South African cropping systems. We work at the interface of field trials, diagnostics, modelling and producer-focused extension.
+
+[Read more about our background, vision and mission »](about.qmd)
+
+## What we do
+
+-   Field pathology and epidemiology across major crops and regions\
+-   Disease forecasting and modelling to support timely management decisions\
+-   Producer-focused extension and training, grounded in research\
+-   Student development, supervision and mentoring in field pathology
+
+## Explore the lab
+
+-   [Meet the team »](team.qmd)\
+-   [Projects: current and completed »](projects.qmd)\
+-   [Our grants, partners and acknowledgments »](acknowledgments.qmd)\
+-   [Recent activities and updates »](updates.qmd)\
+-   [Contact us and explore collaboration »](contact.qmd)

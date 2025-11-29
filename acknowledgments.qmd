@@ -1,0 +1,22 @@
+---
+title: "Acknowledgments"
+page-layout: article
+---
+
+## Funders and partners
+
+We gratefully acknowledge financial support and collaboration from:
+
+-   \[Add Sorghum Trust, OPDT, Grain SA, ARC, etc.\]
+
+::: funder-logos
+<!-- Add logos as you have them, for now you can leave this empty --> <!-- <img src="images/funders/sorghum-trust.png" alt="Sorghum Trust logo"> -->
+:::
+
+## Institutional support
+
+The McLab Field Pathology & Epidemiology Group is hosted within the Department of Plant Sciences, University of the Free State.
+
+## Collaborators
+
+\[List key collaborators and networks here.\]

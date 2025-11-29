@@ -1,0 +1,148 @@
+/* --- Palette: change these to your actual McLab colours --- */
+
+$primary:   #004d40;  // dark teal example
+$secondary: #f9a825;  // gold example
+$info:      #4db6ac;
+$success:   #2e7d32;
+$danger:    #c62828;
+$light:     #f5f5f5;
+$dark:      #263238;
+
+$body-bg:   #ffffff;
+$body-color:#212121;
+$link-color:$primary;
+
+/* Import Bootstrap AFTER variables */
+@import "bootstrap/scss/bootstrap";
+
+/* --- Global tweaks --- */
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+/* Hero section on the home page */
+.hero-section {
+  padding: 4rem 0 3rem 0;
+  background: linear-gradient(
+    135deg,
+    rgba(0, 77, 64, 0.08),
+    rgba(249, 168, 37, 0.15)
+  );
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.hero-title {
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.hero-subtitle {
+  font-size: 1.1rem;
+  max-width: 40rem;
+}
+
+.hero-logo {
+  max-width: 140px;
+}
+
+/* --- Team cards --- */
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.team-card {
+  background: #ffffff;
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  box-shadow: 0 10px 18px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+.team-photo {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 3px solid $primary;
+}
+
+.team-name {
+  font-weight: 600;
+  margin-bottom: 0.15rem;
+}
+
+.team-role {
+  font-size: 0.95rem;
+  color: #616161;
+  margin-bottom: 0.75rem;
+}
+
+/* “More about” toggle */
+.team-details summary {
+  cursor: pointer;
+  font-weight: 500;
+  color: $primary;
+  margin-bottom: 0.4rem;
+}
+
+.team-details summary::marker {
+  color: $secondary;
+}
+
+/* --- Projects grid --- */
+
+.project-card-image {
+  border-radius: 0.75rem 0.75rem 0 0;
+  width: 100%;
+  height: 170px;
+  object-fit: cover;
+}
+
+.project-meta {
+  font-size: 0.85rem;
+  color: #757575;
+}
+
+/* --- Updates / mini blog cards --- */
+
+.update-card-image {
+  border-radius: 0.5rem;
+  width: 100%;
+  height: 170px;
+  object-fit: cover;
+}
+
+.update-snippet {
+  font-size: 0.95rem;
+  color: #424242;
+}
+
+/* --- Funder logos --- */
+
+.funder-logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+}
+
+.funder-logos img {
+  max-height: 60px;
+  width: auto;
+}
+
+/* --- Contact boxes --- */
+
+.contact-box {
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  background: #fafafa;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  margin-bottom: 1.5rem;
+}

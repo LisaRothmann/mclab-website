@@ -1,0 +1,40 @@
+---
+title: "Meet the Team"
+page-layout: article
+---
+
+Our work is made possible by a multidisciplinary team of researchers, students, technicians and collaborators.
+
+::::::: team-grid
+:::::: team-card
+<img src="images/team/lisa.jpg" alt="Lisa Rothmann" class="team-photo"/>
+
+::: team-name
+Dr Lisa Rothmann
+:::
+
+::: team-role
+Principal Investigator \| Field Pathology & Epidemiology
+:::
+
+::: team-links
+```         
+<a href="https://mclab-plant-pathology.co.za/lisa" target="_blank">Personal website</a>
+|
+<a href="mailto:your.email@ufs.ac.za">Email</a>
+```
+:::
+
+<details class="team-details">
+
+<summary>More about Lisa</summary>
+
+<p>Short bio here: main research focus areas, teaching and supervision, and national/international roles.</p>
+
+<p>Selected projects: <a href="projects/2025-sunflower-head-rot.html">Sunflower head rot surveys and forecasting</a>, <a href="projects/2025-soybean-stem-rot.html">Soybean Sclerotinia stem rot management</a></p>
+
+</details>
+::::::
+
+<!-- Duplicate and edit for each team member -->
+:::::::
