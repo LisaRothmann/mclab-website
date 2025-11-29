@@ -5,7 +5,7 @@ project:
 website:
   title: "McLab Field Pathology & Epidemiology Group"
   site-url: "https://mclab-plant-pathology.co.za"
-  favicon: images/logo.png
+  favicon: images/mclab-logo.png
 
   navbar:
     logo: images/mclab-logo.png
