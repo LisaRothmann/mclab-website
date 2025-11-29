@@ -6,7 +6,6 @@ listing:
   contents: projects
   type: grid
   grid-columns: 3
-  image-height: "180px"
   grid-item-border: true
   sort: "date desc"
   filter-ui: [categories]

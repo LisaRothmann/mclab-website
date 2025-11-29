@@ -8,7 +8,7 @@ date: 2025-11-07
 
 ## Overview
 
-This project forms part of [Kwanele Sabela](team.qmd#kwanele-sabela)’s MSc Agric research and focuses on accurately assessing Sclerotinia head rot in sunflower. The work involves designing and validating a standard area diagram set to improve the consistency and reliability of disease severity ratings. Field surveys, image-based assessments and comparative scoring are used to evaluate how well the tool performs under real production conditions.
+This project forms part of [Kwanele Sabela](../team.html#kwanele-sabela)’s MSc Agric research and focuses on accurately assessing Sclerotinia head rot in sunflower. The work involves designing and validating a standard area diagram set to improve the consistency and reliability of disease severity ratings. Field surveys, image-based assessments and comparative scoring are used to evaluate how well the tool performs under real production conditions.
 
 ## Key questions
 

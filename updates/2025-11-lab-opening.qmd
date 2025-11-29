@@ -1,8 +1,8 @@
 ---
 title: "McLab renovation and lab opening"
 description: "Celebrating the renovated McLab Field Pathology & Epidemiology space with students, colleagues and partners."
-image: images/updates/lab-opening.jpg
-date: 2025-11-20
+image: images/updates/lab-opening-small.jpg
+date: 2025-11-28
 ---
 
 We opened the renovated McLab space with a small event, coffee and doughnuts. 
@@ -12,3 +12,5 @@ Thank you to the University of the Free State (UFS) Facilities for making this s
 In the image: Shalya, Dumolwenkosi, Kwanele and I (those of use currently in Bloemfontein) displaying our "Opening Scroll". 
 
 This marks the start of a new phase for our field pathology and epidemiology work at the University of the Free State. 
+
+![](images/updates/lab-opening.jpg){.hidden}

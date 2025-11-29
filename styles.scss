@@ -235,3 +235,14 @@ body {
   max-height: 42px !important;
   width: auto;
 }
+
+/* Standardize project and update images */
+.listing-img,
+.project-card-image,
+.update-card-image,
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+

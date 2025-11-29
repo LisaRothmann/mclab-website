@@ -30,7 +30,7 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 
 # Postgraduate Students
 
-## Kwanele Sabela
+## Kwanele Sabela {#kwanele-sabela}
 
 <img src="images/team/kwanele.jpg" alt="Kwanele Sabela" class="team-photo"/>
 

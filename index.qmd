@@ -21,7 +21,7 @@ Epidemiology and field pathology as a bridge between plant pathologists, industr
 :::
 
 ::: {.col-md-4 .text-md-end .text-center}
-![McLab logo](images/mclab-logo.png){.hero-logo alt="McLab logo"}
+![](images/mclab-logo.png){.hero-logo}
 :::
 :::::
 ::::::
