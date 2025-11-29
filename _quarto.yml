@@ -1,14 +1,14 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
 website:
   title: "McLab Field Pathology & Epidemiology Group"
-  site-url: "https://mclab-plant-pathology.co.za"
-  favicon: images/mclab-logo.png
+  site-url: https://mclab-plant-pathology.co.za
 
   navbar:
-    logo: images/mclab-logo.png
     left:
       - href: index.qmd
         text: Home
@@ -24,9 +24,6 @@ website:
         text: What we are up to
       - href: contact.qmd
         text: Contact & Work with us
-
-  page-footer:
-    center: "© 2025 McLab Field Pathology & Epidemiology Group"
 
 format:
   html:
