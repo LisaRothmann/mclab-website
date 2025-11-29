@@ -31,12 +31,10 @@ website:
 format:
   html:
     theme:
-      - cosmo
-    css:
-      - styles.scss
-    toc: false
-    smooth-scroll: true
-    link-external-newwindow: true
+      light: lux
+      dark: darkly
+    toggle: true
+    css: styles.scss
 
 execute:
   echo: false
