@@ -3,7 +3,7 @@ title: "Acknowledgments"
 page-layout: article
 ---
 
-## Funders 
+## Funders
 
 We gratefully acknowledge financial support from:
 

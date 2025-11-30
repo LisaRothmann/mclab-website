@@ -25,7 +25,7 @@ In recognition of the foundation established by Prof McLaren, and to honour the 
 ::: {.g-col-6 .g-col-md-4 .value-card}
 <i class="bi bi-bullseye" style="font-size:2rem;"></i>
 
-### Purposefulness 
+### Purposefulness
 
 We work with intention on challenges that matter for agriculture.
 :::
@@ -33,7 +33,7 @@ We work with intention on challenges that matter for agriculture.
 ::: {.g-col-6 .g-col-md-4 .value-card}
 <i class="bi bi-people" style="font-size:2rem;"></i>
 
-### Teamwork 
+### Teamwork
 
 We collaborate openly, strengthening our collective capacity.
 :::
@@ -41,7 +41,7 @@ We collaborate openly, strengthening our collective capacity.
 ::: {.g-col-6 .g-col-md-4 .value-card}
 <i class="bi bi-shield-check" style="font-size:2rem;"></i>
 
-### Conscientiousness 
+### Conscientiousness
 
 We uphold accurate, responsible and reliable scientific practice.
 :::
@@ -49,7 +49,7 @@ We uphold accurate, responsible and reliable scientific practice.
 ::: {.g-col-6 .g-col-md-4 .value-card}
 <i class="bi bi-lightbulb" style="font-size:2rem;"></i>
 
-### Creativity & Curiosity 
+### Creativity & Curiosity
 
 We remain open-minded, exploring ideas and tools that improve disease management.
 :::
