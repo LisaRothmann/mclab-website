@@ -29,7 +29,7 @@ format:
       light: lux
       dark: darkly
     scss: styles.scss
-    toc: true
+
 
 resources:
   - CNAME

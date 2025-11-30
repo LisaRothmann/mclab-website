@@ -4,20 +4,14 @@
    Author: Lisa Rothmann + Cath
 ========================================================*/
 
-/*----------------------------------
-  1. McLab Colour Palette
-----------------------------------*/
-$mclab-blue:   #1446a0;   // deep blue
-$mclab-gdark:  #007d41;   // dark green
-$mclab-gmid:   #00964f;   // vibrant green
-$mclab-glight: #6eb437;   // light green
-$mclab-ysoft:  #f0e628;   // soft yellow
-$mclab-ybold:  #ffcd00;   // strong yellow
-$mclab-orange: #f08200;   // warm orange
+$mclab-blue:   #1446a0;
+$mclab-gdark:  #007d41;
+$mclab-gmid:   #00964f;
+$mclab-glight: #6eb437;
+$mclab-ysoft:  #f0e628;
+$mclab-ybold:  #ffcd00;
+$mclab-orange: #f08200;
 
-/*----------------------------------
-  2. Bootstrap Variable Overrides (Light mode)
-----------------------------------*/
 $primary:     $mclab-blue;
 $secondary:   $mclab-gdark;
 $success:     $mclab-glight;
@@ -31,16 +25,11 @@ $body-bg:     #ffffff;
 $body-color:  #212121;
 $link-color:  $primary;
 
-/* Load Bootstrap AFTER variables */
 @import "bootstrap/scss/bootstrap";
 
-/*----------------------------------
-  3. DARK MODE OVERRIDES
-----------------------------------*/
 [data-bs-theme="dark"] {
   --bs-body-bg: #000000 !important;
   --bs-body-color: #ffffff !important;
-
   --bs-primary:   #6eb437;
   --bs-secondary: #00964f;
   --bs-success:   #6eb437;
@@ -58,16 +47,10 @@ $link-color:  $primary;
   }
 }
 
-/*----------------------------------
-  4. Global Typography
-----------------------------------*/
 body {
   font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 
-/*----------------------------------
-  5. Hero / Banner (Homepage)
-----------------------------------*/
 .hero-section {
   padding: 4rem 0 3rem;
   background: linear-gradient(
@@ -79,9 +62,6 @@ body {
 .hero-title { font-weight: 700; }
 .hero-subtitle { font-size: 1.1rem; max-width: 40rem; }
 
-/*----------------------------------
-  6. Project + Update Images
-----------------------------------*/
 .project-card-image,
 .update-card-image {
   border-radius: 0.75rem;
@@ -90,14 +70,6 @@ body {
   object-fit: cover;
 }
 
-[data-bs-theme="dark"] .project-meta,
-[data-bs-theme="dark"] .update-snippet {
-  color: #dcdcdc !important;
-}
-
-/*----------------------------------
-  7. Contact Boxes
-----------------------------------*/
 .contact-box {
   padding: 1.5rem;
   background: #fafafa;
@@ -108,19 +80,11 @@ body {
   border: 1px solid #333 !important;
 }
 
-/*----------------------------------
-  8. Navbar Logo
-----------------------------------*/
 .navbar-brand img {
   max-height: 42px !important;
   width: auto;
 }
 
-/*========================================================
-   9. TEAM PAGE — FINAL, CLEAN, WORKING VERSION
-========================================================*/
-
-/* Grid layout */
 .team-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -128,7 +92,6 @@ body {
   margin-top: 2rem;
 }
 
-/* Base team card */
 .team-card {
   background: var(--card-bg);
   color: var(--card-text);
@@ -144,7 +107,6 @@ body {
   box-shadow: 0 10px 18px rgba(0,0,0,0.12);
 }
 
-/* Circle photos — ALWAYS enforced */
 .team-photo {
   width: 180px !important;
   height: 180px !important;
@@ -156,7 +118,6 @@ body {
   box-shadow: 0 0 0 4px rgba(0,0,0,0.06);
 }
 
-/* Category colours */
 .pi-card      { border-color: #1446a0; }
 .postdoc-card { border-color: #6eb437; }
 .tech-card    { border-color: #00964f; }
@@ -167,22 +128,15 @@ body {
 .past-card    { border-color: #b0b0b0; }
 .collab-card  { border-color: #6eb437; }
 
-/* Light mode card vars */
 html.light {
   --card-bg: #ffffff;
   --card-text: #333333;
 }
 
-/* Dark mode card vars */
 html.dark {
   --card-bg: #1f1f1f;
   --card-text: #f0f0f0;
 }
 
-/* Summary + links in dark mode */
-html.dark .team-details summary {
-  color: #8ad1ff !important;
-}
-html.dark a {
-  color: #8ad1ff !important;
-}
+html.dark .team-details summary { color: #8ad1ff !important; }
+html.dark a { color: #8ad1ff !important; }
