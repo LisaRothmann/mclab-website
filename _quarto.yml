@@ -33,3 +33,4 @@ format:
 
 resources:
   - CNAME
+  - images

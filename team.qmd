@@ -16,16 +16,12 @@ Our work is made possible by a multidisciplinary team of researchers, students, 
 **Principal Investigator | Field Pathology & Epidemiology**
 
 [Personal website](https://mclab-plant-pathology.co.za/lisa)  
-[Email](mailto:your.email@ufs.ac.za)
+[Email](mailto:coetzeeLA@ufs.ac.za)
 
 <details class="team-details">
 <summary>More about Lisa</summary>
 
 Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the University of the Free State. Her work focuses on plant disease epidemiology, field pathology methodologies, and applied research supporting producers and industry partners. She supervises postgraduate students, leads multi-stakeholder research programmes and collaborates nationally and internationally on Sclerotinia epidemiology, disease forecasting and sustainable crop protection.
-
-**Selected projects:**  
-- [Sunflower head rot surveys and forecasting](projects/2025-sunflower-head-rot.html)  
-- [Soybean Sclerotinia stem rot management](projects/2025-soybean-stem-rot.html)
 
 </details>
 </div>
