@@ -1,0 +1,148 @@
+/* =========================================
+   McLab – Basic Custom Styling (CSS only)
+   ========================================= */
+
+/* ---------- Hero / Banner (Home) ---------- */
+
+.hero-section {
+  padding: 4rem 0 3rem;
+  background: linear-gradient(
+    135deg,
+    rgba(0, 125, 65, 0.14),
+    rgba(240, 230, 40, 0.18)
+  );
+}
+
+.hero-title {
+  font-weight: 700;
+}
+
+.hero-subtitle {
+  font-size: 1.1rem;
+  max-width: 40rem;
+}
+
+/* ---------- Contact boxes ---------- */
+
+.contact-box {
+  padding: 1.5rem;
+  background: #fafafa;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(0,0,0,0.06);
+  margin-bottom: 1.5rem;
+}
+
+[data-bs-theme="dark"] .contact-box {
+  background: #111111;
+  border-color: #333333;
+}
+
+/* ---------- Navbar logo ---------- */
+
+.navbar-brand img {
+  max-height: 42px;
+  width: auto;
+}
+
+/* =========================================
+   TEAM PAGE – SQUARE PHOTOS + COLOUR CARDS
+   ========================================= */
+
+/* Team grid layout */
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.8rem;
+  margin-top: 2rem;
+}
+
+/* Basic team card */
+
+.team-card {
+  background: #ffffff;
+  color: #333333;
+  padding: 1.5rem;
+  border-radius: 12px;
+  text-align: center;
+  border: 2px solid #eeeeee;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.team-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 18px rgba(0,0,0,0.12);
+}
+
+/* Dark mode for cards */
+
+[data-bs-theme="dark"] .team-card {
+  background: #1b1b1b;
+  color: #f0f0f0;
+  border-color: #333333;
+}
+
+/* Team photos – SMALL ROUNDED SQUARES */
+
+.team-photo {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 12px;   /* rounded square */
+  display: block;
+  margin: 0 auto 1rem auto;
+}
+
+/* Category accent colours (border-left) */
+
+.pi-card {
+  border-left: 6px solid #1446a0;  /* deep blue */
+}
+
+.postdoc-card {
+  border-left: 6px solid #6eb437;  /* light green */
+}
+
+.tech-card {
+  border-left: 6px solid #00964f;  /* strong green */
+}
+
+.phd-card {
+  border-left: 6px solid #f08200;  /* orange */
+}
+
+.msc-card {
+  border-left: 6px solid #f0e628;  /* yellow */
+}
+
+.hons-card {
+  border-left: 6px solid #8fd17f;  /* soft light green */
+}
+
+.grad-card {
+  border-left: 6px solid #777777;  /* grey */
+}
+
+.past-card {
+  border-left: 6px solid #b0b0b0;  /* light grey */
+}
+
+.collab-card {
+  border-left: 6px solid #6eb437;  /* same as postdoc */
+}
+
+/* Details summary styling */
+
+.team-details summary {
+  cursor: pointer;
+  font-weight: 500;
+  margin-top: 0.5rem;
+}
+
+/* Dark-mode links and summary text */
+
+[data-bs-theme="dark"] .team-details summary,
+[data-bs-theme="dark"] a {
+  color: #8ad1ff;
+}
