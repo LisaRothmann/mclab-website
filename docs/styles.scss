@@ -1,22 +1,22 @@
 /*========================================================
    McLab Field Pathology & Epidemiology Group Theme
    Author: Lisa Rothmann + Cath
-   Structured SCSS for Light/Dark Mode + Full Palette
+   Clean, merged, non-duplicated SCSS
 ========================================================*/
 
 /*----------------------------------
-  1. McLab Colour Palette (brand)
+  1. McLab Colour Palette
 ----------------------------------*/
-$mclab-blue:   #1446a0;   // deep blue (primary light)
+$mclab-blue:   #1446a0;   // deep blue
 $mclab-gdark:  #007d41;   // dark green
 $mclab-gmid:   #00964f;   // vibrant green
-$mclab-glight: #6eb437;   // primary for dark mode
-$mclab-ysoft:  #f0e628;   // soft yellow
-$mclab-ybold:  #ffcd00;   // bright yellow
+$mclab-glight: #6eb437;   // light green
+$mclab-ysoft:  #f0e628;   // yellow
+$mclab-ybold:  #ffcd00;   // strong yellow
 $mclab-orange: #f08200;   // warm orange
 
 /*----------------------------------
-  2. Bootstrap Overrides: LIGHT Theme
+  2. Bootstrap Overrides (Light mode)
 ----------------------------------*/
 $primary:     $mclab-blue;
 $secondary:   $mclab-gdark;
@@ -31,37 +31,28 @@ $body-bg:     #ffffff;
 $body-color:  #212121;
 $link-color:  $primary;
 
-/*----------------------------------
-  3. Import Bootstrap AFTER vars
-----------------------------------*/
+/* Load Bootstrap after overrides */
 @import "bootstrap/scss/bootstrap";
 
 /*----------------------------------
-  4. Quarto Dark Mode Overrides
+  3. Dark Mode Overrides
 ----------------------------------*/
 [data-bs-theme="dark"] {
-
-  /* Core background + text */
   --bs-body-bg: #000000 !important;
   --bs-body-color: #ffffff !important;
 
-  /* Dark-mode Bootstrap tokens */
-  --bs-primary:   #6eb437;   /* light green = brand pop */
+  --bs-primary:   #6eb437;
   --bs-secondary: #00964f;
   --bs-success:   #6eb437;
   --bs-info:      #1446a0;
   --bs-warning:   #f0e628;
   --bs-danger:    #f08200;
 
-  a {
-    color: #6eb437 !important;
-  }
-  a:hover {
-    color: #f0e628 !important;
-  }
+  a { color: #6eb437 !important; }
+  a:hover { color: #f0e628 !important; }
 
-  /* Navbar in dark mode */
-  .navbar, 
+  /* Navbar */
+  .navbar,
   .navbar-nav .nav-link {
     background-color: #000000 !important;
     color: #ffffff !important;
@@ -69,186 +60,86 @@ $link-color:  $primary;
 }
 
 /*----------------------------------
-  5. Global Typography + Layout
+  4. Global Typography
 ----------------------------------*/
 body {
   font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 
 /*----------------------------------
-  6. Hero Section (Homepage)
+  5. Hero / Banner (Home)
 ----------------------------------*/
 .hero-section {
-  padding: 4rem 0 3rem 0;
+  padding: 4rem 0 3rem;
   background: linear-gradient(
     135deg,
     rgba(0, 125, 65, 0.14),
     rgba(240, 230, 40, 0.18)
   );
-  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
-.hero-title {
-  font-weight: 700;
-  margin-bottom: 0.5rem;
-}
-
-.hero-subtitle {
-  font-size: 1.1rem;
-  max-width: 40rem;
-}
-
-.hero-logo {
-  max-width: 140px;
-}
+.hero-title { font-weight: 700; }
+.hero-subtitle { font-size: 1.1rem; max-width: 40rem; }
 
 /*----------------------------------
-  7. Team Cards
+  6. PROJECT + UPDATE IMAGES
 ----------------------------------*/
-.team-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
-}
-
-.team-card {
-  background: #ffffff;
-  border-radius: 0.75rem;
-  padding: 1.5rem;
-  box-shadow: 0 10px 18px rgba(0, 0, 0, 0.05);
-  text-align: center;
-}
-
-[data-bs-theme="dark"] .team-card {
-  background: #111111 !important;
-  box-shadow: none;
-}
-
-.team-photo {
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-bottom: 1rem;
-  border: 3px solid $primary;
-}
-
-.team-name {
-  font-weight: 600;
-  margin-bottom: 0.15rem;
-}
-
-.team-role {
-  font-size: 0.95rem;
-  color: #616161;
-  margin-bottom: 0.75rem;
-}
-
-[data-bs-theme="dark"] .team-role {
-  color: #bbbbbb !important;
-}
-
-.team-details summary {
-  cursor: pointer;
-  font-weight: 500;
-  color: $primary;
-  margin-bottom: 0.4rem;
-}
-.team-details summary::marker {
-  color: $secondary;
-}
-
-/*----------------------------------
-  8. Projects
-----------------------------------*/
-.project-card-image {
-  border-radius: 0.75rem 0.75rem 0 0;
-  width: 100%;
-  height: 170px;
-  object-fit: cover;
-}
-
-.project-meta {
-  font-size: 0.85rem;
-  color: #757575;
-}
-
-[data-bs-theme="dark"] .project-meta {
-  color: #cfcfcf;
-}
-
-/*----------------------------------
-  9. Updates / Mini Blog Cards
-----------------------------------*/
+.project-card-image,
 .update-card-image {
-  border-radius: 0.5rem;
+  border-radius: 0.75rem;
   width: 100%;
   height: 170px;
   object-fit: cover;
 }
 
-.update-snippet {
-  font-size: 0.95rem;
-  color: #424242;
-}
-
+[data-bs-theme="dark"] .project-meta,
 [data-bs-theme="dark"] .update-snippet {
-  color: #dddddd !important;
+  color: #dcdcdc !important;
 }
 
 /*----------------------------------
-  10. Funder Logos
-----------------------------------*/
-.funder-logos {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  align-items: center;
-}
-
-.funder-logos img {
-  max-height: 60px;
-  width: auto;
-}
-
-/*----------------------------------
-  11. Contact Boxes
+  7. Contact Boxes
 ----------------------------------*/
 .contact-box {
-  border-radius: 0.75rem;
   padding: 1.5rem;
   background: #fafafa;
-  border: 1px solid rgba(0, 0, 0, 0.05);
-  margin-bottom: 1.5rem;
+  border-radius: 0.75rem;
 }
 
 [data-bs-theme="dark"] .contact-box {
   background: #111111 !important;
-  border: 1px solid #333333 !important;
+  border: 1px solid #333 !important;
 }
 
 /*----------------------------------
-  12. Navbar logo
+  8. Navbar logo
 ----------------------------------*/
 .navbar-brand img {
   max-height: 42px !important;
-  width: auto;
 }
 
-/* ---------------------------
-   TEAM PAGE CARD STYLES
-   --------------------------- */
+/*========================================================
+   TEAM PAGE — FINAL, CLEAN, WORKING VERSION
+========================================================*/
 
-/* Card container */
+/* Grid container */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.8rem;
+  margin-top: 2rem;
+}
+
+/* Base team card */
 .team-card {
-  border-radius: 0.75rem;
-  padding: 1.5rem;
-  background: #ffffff;
-  box-shadow: 0 6px 10px rgba(0,0,0,0.08);
+  background: var(--card-bg);
+  color: var(--card-text);
+  padding: 1.8rem;
+  border-radius: 1rem;
   text-align: center;
-  border-left: 6px solid transparent;
+  border: 4px solid transparent;
   transition: 0.25s ease;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.08);
 }
 
 .team-card:hover {
@@ -256,98 +147,28 @@ body {
   box-shadow: 0 10px 18px rgba(0,0,0,0.12);
 }
 
-/* Team grid layout */
-.team-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1.5rem;
-  margin-top: 1.5rem;
-}
-
-/* Circle photos */
+/* Circle photo — FIXED */
 .team-photo {
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
+  width: 180px !important;
+  height: 180px !important;
+  border-radius: 50% !important;
   object-fit: cover;
+  display: block;
   margin: 0 auto 1rem auto;
-  border: 4px solid #fff;
+  border: 4px solid rgba(255, 255, 255, 0.85);
   box-shadow: 0 0 0 4px rgba(0,0,0,0.06);
 }
 
-/* Role-specific accent colours */
-.pi-card {
-  border-left-color: #1446a0;
-}
-
-.postdoc-card {
-  border-left-color: #6eb437;
-}
-
-.tech-card {
-  border-left-color: #00964f;
-}
-
-.phd-card {
-  border-left-color: #f08200;
-}
-
-.msc-card {
-  border-left-color: #f0e628;
-}
-
-.hons-card {
-  border-left-color: #8fd17f;
-}
-
-.grad-card {
-  border-left-color: #616161;
-}
-
-.past-card {
-  border-left-color: #b0b0b0;
-}
-
-/* Optional: Dark mode adjustments */
-.dark .team-card {
-  background: #1a1a1a;
-  color: #fafafa;
-}
-
-
-/* ---------------------------------------------------------
-   TEAM PAGE FIXES — LIGHT + DARK MODE
-   --------------------------------------------------------- */
-
-/* Base styling for all team cards */
-.team-card {
-  background: var(--card-bg);
-  color: var(--card-text);
-  padding: 1.5rem;
-  border-radius: 1rem;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-  text-align: center;
-  border: 3px solid transparent;
-}
-
-/* Circle photo */
-.team-photo {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-bottom: 1rem;
-}
-
-/* Category colour borders */
-.pi-card       { border-color: #1446a0; } /* Deep blue */
-.postdoc-card  { border-color: #6eb437; } /* Fresh green */
-.tech-card     { border-color: #00964f; } /* Deep green */
-.phd-card      { border-color: #f08200; } /* Orange */
-.msc-card      { border-color: #f0e628; } /* Yellow */
-.hons-card     { border-color: #7ccf8a; } /* Light green */
-.grad-card     { border-color: #bbbbbb; } /* Grey */
-.past-card     { border-color: #999999; } /* Dark grey */
+/* Colour coding */
+.pi-card      { border-color: #1446a0; }
+.postdoc-card { border-color: #6eb437; }
+.tech-card    { border-color: #00964f; }
+.phd-card     { border-color: #f08200; }
+.msc-card     { border-color: #f0e628; }
+.hons-card    { border-color: #8fd17f; }
+.grad-card    { border-color: #777777; }
+.past-card    { border-color: #b0b0b0; }
+.collab-card  { border-color: #6eb437; } /* collaborator section */
 
 /* Light mode variables */
 html.light {
@@ -357,22 +178,15 @@ html.light {
 
 /* Dark mode variables */
 html.dark {
-  --card-bg: #2b2b2b;       /* A clean charcoal card */
-  --card-text: #f0f0f0;     /* High-contrast text */
+  --card-bg: #1f1f1f;
+  --card-text: #f0f0f0;
 }
 
-/* Ensure links remain visible in dark mode */
-html.dark a {
-  color: #8ad1ff; /* light blue */
-}
-
+/* Fix for summary text in dark mode */
 html.dark .team-details summary {
-  color: #8ad1ff;
+  color: #8ad1ff !important;
+}
+html.dark a {
+  color: #8ad1ff !important;
 }
 
-/* Improve section headers contrast in dark mode */
-html.dark h1, 
-html.dark h2, 
-html.dark h3 {
-  color: #ffffff;
-}
