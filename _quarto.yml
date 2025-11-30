@@ -28,7 +28,7 @@ format:
     theme:
       light: lux
       dark: darkly
-    scss: styles.scss
+    css: styles.css      # ← plain CSS file
     toc: true
 
 resources:
