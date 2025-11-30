@@ -32,4 +32,4 @@ format:
     toc: true
 
 resources:
-  - images   # ← THIS IS THE FIX
+  - CNAME
