@@ -1,7 +1,7 @@
 /*========================================================
-   McLab Field Pathology & Epidemiology Group Theme
+   McLab Field Pathology & Epidemiology Group
+   Theme Stylesheet (SCSS)
    Author: Lisa Rothmann + Cath
-   Clean, merged, non-duplicated SCSS
 ========================================================*/
 
 /*----------------------------------
@@ -11,12 +11,12 @@ $mclab-blue:   #1446a0;   // deep blue
 $mclab-gdark:  #007d41;   // dark green
 $mclab-gmid:   #00964f;   // vibrant green
 $mclab-glight: #6eb437;   // light green
-$mclab-ysoft:  #f0e628;   // yellow
+$mclab-ysoft:  #f0e628;   // soft yellow
 $mclab-ybold:  #ffcd00;   // strong yellow
 $mclab-orange: #f08200;   // warm orange
 
 /*----------------------------------
-  2. Bootstrap Overrides (Light mode)
+  2. Bootstrap Variable Overrides (Light mode)
 ----------------------------------*/
 $primary:     $mclab-blue;
 $secondary:   $mclab-gdark;
@@ -31,11 +31,11 @@ $body-bg:     #ffffff;
 $body-color:  #212121;
 $link-color:  $primary;
 
-/* Load Bootstrap after overrides */
+/* Load Bootstrap AFTER variables */
 @import "bootstrap/scss/bootstrap";
 
 /*----------------------------------
-  3. Dark Mode Overrides
+  3. DARK MODE OVERRIDES
 ----------------------------------*/
 [data-bs-theme="dark"] {
   --bs-body-bg: #000000 !important;
@@ -51,7 +51,6 @@ $link-color:  $primary;
   a { color: #6eb437 !important; }
   a:hover { color: #f0e628 !important; }
 
-  /* Navbar */
   .navbar,
   .navbar-nav .nav-link {
     background-color: #000000 !important;
@@ -67,7 +66,7 @@ body {
 }
 
 /*----------------------------------
-  5. Hero / Banner (Home)
+  5. Hero / Banner (Homepage)
 ----------------------------------*/
 .hero-section {
   padding: 4rem 0 3rem;
@@ -77,12 +76,11 @@ body {
     rgba(240, 230, 40, 0.18)
   );
 }
-
 .hero-title { font-weight: 700; }
 .hero-subtitle { font-size: 1.1rem; max-width: 40rem; }
 
 /*----------------------------------
-  6. PROJECT + UPDATE IMAGES
+  6. Project + Update Images
 ----------------------------------*/
 .project-card-image,
 .update-card-image {
@@ -105,24 +103,24 @@ body {
   background: #fafafa;
   border-radius: 0.75rem;
 }
-
 [data-bs-theme="dark"] .contact-box {
   background: #111111 !important;
   border: 1px solid #333 !important;
 }
 
 /*----------------------------------
-  8. Navbar logo
+  8. Navbar Logo
 ----------------------------------*/
 .navbar-brand img {
   max-height: 42px !important;
+  width: auto;
 }
 
 /*========================================================
-   TEAM PAGE — FINAL, CLEAN, WORKING VERSION
+   9. TEAM PAGE — FINAL, CLEAN, WORKING VERSION
 ========================================================*/
 
-/* Grid container */
+/* Grid layout */
 .team-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -141,25 +139,24 @@ body {
   transition: 0.25s ease;
   box-shadow: 0 6px 12px rgba(0,0,0,0.08);
 }
-
 .team-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 10px 18px rgba(0,0,0,0.12);
 }
 
-/* Circle photo — FIXED */
+/* Circle photos — ALWAYS enforced */
 .team-photo {
   width: 180px !important;
   height: 180px !important;
-  border-radius: 50% !important;
   object-fit: cover;
+  border-radius: 50% !important;
   display: block;
   margin: 0 auto 1rem auto;
   border: 4px solid rgba(255, 255, 255, 0.85);
   box-shadow: 0 0 0 4px rgba(0,0,0,0.06);
 }
 
-/* Colour coding */
+/* Category colours */
 .pi-card      { border-color: #1446a0; }
 .postdoc-card { border-color: #6eb437; }
 .tech-card    { border-color: #00964f; }
@@ -168,25 +165,24 @@ body {
 .hons-card    { border-color: #8fd17f; }
 .grad-card    { border-color: #777777; }
 .past-card    { border-color: #b0b0b0; }
-.collab-card  { border-color: #6eb437; } /* collaborator section */
+.collab-card  { border-color: #6eb437; }
 
-/* Light mode variables */
+/* Light mode card vars */
 html.light {
   --card-bg: #ffffff;
   --card-text: #333333;
 }
 
-/* Dark mode variables */
+/* Dark mode card vars */
 html.dark {
   --card-bg: #1f1f1f;
   --card-text: #f0f0f0;
 }
 
-/* Fix for summary text in dark mode */
+/* Summary + links in dark mode */
 html.dark .team-details summary {
   color: #8ad1ff !important;
 }
 html.dark a {
   color: #8ad1ff !important;
 }
-

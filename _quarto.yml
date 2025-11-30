@@ -28,7 +28,7 @@ format:
     theme:
       light: lux
       dark: darkly
-    css: styles.qscss
+    css: styles.scss
     toc: true
 
 resources:
