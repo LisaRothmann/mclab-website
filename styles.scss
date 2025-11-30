@@ -1,90 +1,19 @@
-/*========================================================
-   McLab Field Pathology & Epidemiology Group
-   Theme Stylesheet (SCSS)
-   Author: Lisa Rothmann + Cath
-========================================================*/
+/* ===========================
+   BASIC TEAM STYLING
+   (safe reset version)
+=========================== */
 
-$mclab-blue:   #1446a0;
-$mclab-gdark:  #007d41;
-$mclab-gmid:   #00964f;
-$mclab-glight: #6eb437;
-$mclab-ysoft:  #f0e628;
-$mclab-ybold:  #ffcd00;
-$mclab-orange: #f08200;
-
-$primary:     $mclab-blue;
-$secondary:   $mclab-gdark;
-$success:     $mclab-glight;
-$info:        $mclab-gmid;
-$warning:     $mclab-ybold;
-$danger:      $mclab-orange;
-$light:       #ffffff;
-$dark:        #111111;
-
-$body-bg:     #ffffff;
-$body-color:  #212121;
-$link-color:  $primary;
-
-@import "bootstrap/scss/bootstrap";
-
-[data-bs-theme="dark"] {
-  --bs-body-bg: #000000 !important;
-  --bs-body-color: #ffffff !important;
-  --bs-primary:   #6eb437;
-  --bs-secondary: #00964f;
-  --bs-success:   #6eb437;
-  --bs-info:      #1446a0;
-  --bs-warning:   #f0e628;
-  --bs-danger:    #f08200;
-
-  a { color: #6eb437 !important; }
-  a:hover { color: #f0e628 !important; }
-
-  .navbar,
-  .navbar-nav .nav-link {
-    background-color: #000000 !important;
-    color: #ffffff !important;
-  }
-}
-
-body {
-  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
-}
-
-.hero-section {
-  padding: 4rem 0 3rem;
-  background: linear-gradient(
-    135deg,
-    rgba(0, 125, 65, 0.14),
-    rgba(240, 230, 40, 0.18)
-  );
-}
-.hero-title { font-weight: 700; }
-.hero-subtitle { font-size: 1.1rem; max-width: 40rem; }
-
-.project-card-image,
-.update-card-image {
-  border-radius: 0.75rem;
-  width: 100%;
-  height: 170px;
+/* Square team images */
+.team-photo {
+  width: 180px;
+  height: 180px;
   object-fit: cover;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto 1rem auto;
 }
 
-.contact-box {
-  padding: 1.5rem;
-  background: #fafafa;
-  border-radius: 0.75rem;
-}
-[data-bs-theme="dark"] .contact-box {
-  background: #111111 !important;
-  border: 1px solid #333 !important;
-}
-
-.navbar-brand img {
-  max-height: 42px !important;
-  width: auto;
-}
-
+/* Team grid */
 .team-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -92,51 +21,22 @@ body {
   margin-top: 2rem;
 }
 
+/* Team card */
 .team-card {
-  background: var(--card-bg);
-  color: var(--card-text);
-  padding: 1.8rem;
-  border-radius: 1rem;
+  background: #ffffff;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 2px solid #eee;
   text-align: center;
-  border: 4px solid transparent;
-  transition: 0.25s ease;
-  box-shadow: 0 6px 12px rgba(0,0,0,0.08);
-}
-.team-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 10px 18px rgba(0,0,0,0.12);
 }
 
-.team-photo {
-  width: 180px !important;
-  height: 180px !important;
-  object-fit: cover;
-  border-radius: 50% !important;
-  display: block;
-  margin: 0 auto 1rem auto;
-  border: 4px solid rgba(255, 255, 255, 0.85);
-  box-shadow: 0 0 0 4px rgba(0,0,0,0.06);
-}
-
+/* Category colours */
 .pi-card      { border-color: #1446a0; }
 .postdoc-card { border-color: #6eb437; }
 .tech-card    { border-color: #00964f; }
 .phd-card     { border-color: #f08200; }
 .msc-card     { border-color: #f0e628; }
 .hons-card    { border-color: #8fd17f; }
-.grad-card    { border-color: #777777; }
-.past-card    { border-color: #b0b0b0; }
+.grad-card    { border-color: #777; }
+.past-card    { border-color: #aaa; }
 .collab-card  { border-color: #6eb437; }
-
-html.light {
-  --card-bg: #ffffff;
-  --card-text: #333333;
-}
-
-html.dark {
-  --card-bg: #1f1f1f;
-  --card-text: #f0f0f0;
-}
-
-html.dark .team-details summary { color: #8ad1ff !important; }
-html.dark a { color: #8ad1ff !important; }
