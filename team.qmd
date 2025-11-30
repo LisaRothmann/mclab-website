@@ -3,51 +3,329 @@ title: "Meet the Team"
 page-layout: article
 ---
 
-Our work is made possible by a multidisciplinary team of researchers, students, technicians and collaborators.
+Our work is made possible by a multidisciplinary team of researchers, students, technicians, collaborators and graduates who contribute to the scientific and extension mission of the McLab Field Pathology & Epidemiology Group.
 
 # Principal Investigator
 
-## Dr Lisa Rothmann
+<div class="team-grid">
 
-<img src="images/team/lisa.jpg" alt="Dr Lisa Rothmann" class="team-photo"/>
+<div class="team-card pi-card">
+<img src="images/team/lisa.jpg" class="team-photo">
 
-**Principal Investigator \| Field Pathology & Epidemiology**
+### Dr Lisa Rothmann  
+**Principal Investigator | Field Pathology & Epidemiology**
 
-<a href="https://mclab-plant-pathology.co.za/lisa" target="_blank">Personal website</a>\
-<a href="mailto:your.email@ufs.ac.za">Email</a>
+[Personal website](https://mclab-plant-pathology.co.za/lisa)  
+[Email](mailto:your.email@ufs.ac.za)
 
 <details class="team-details">
-
 <summary>More about Lisa</summary>
 
-Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the University of the Free State. Her work focuses on plant disease epidemiology, field pathology methodologies, and applied research that supports producers and agricultural industries across South Africa. She supervises postgraduate students, leads multi-stakeholder research programmes and maintains national and international collaborations in Sclerotinia epidemiology, disease forecasting, and disease management.
+Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the University of the Free State. Her work focuses on plant disease epidemiology, field pathology methodologies, and applied research supporting producers and industry partners. She supervises postgraduate students, leads multi-stakeholder research programmes and collaborates nationally and internationally on Sclerotinia epidemiology, disease forecasting and sustainable crop protection.
 
-**Selected projects:**\
-- [Sunflower head rot surveys and forecasting](projects/2025-sunflower-head-rot.html)\
+**Selected projects:**  
+- [Sunflower head rot surveys and forecasting](projects/2025-sunflower-head-rot.html)  
 - [Soybean Sclerotinia stem rot management](projects/2025-soybean-stem-rot.html)
 
 </details>
+</div>
 
-# Postgraduate Students
+</div>
 
-## Kwanele Sabela {#kwanele-sabela}
+---
 
-<img src="images/team/kwanele.jpg" alt="Kwanele Sabela" class="team-photo"/>
+# Post-Doctoral Fellows
 
-**Graduate level:** MSc Agric\
-**Degree:** Plant Pathology (Interdisciplinary)\
-**Start:** 2023\
-**Graduated:** 2026
+<div class="team-grid">
+
+<div class="team-card postdoc-card">
+<img src="images/team/knowledge.jpg" class="team-photo">
+
+### Dr Knowledge Mushonga  
+**Postdoctoral Fellow**  
+**Start:** 2025
+</div>
+
+</div>
+
+---
+
+# Research Technicians
+
+<div class="team-grid">
+
+<div class="team-card tech-card">
+<img src="images/team/dumo.jpg" class="team-photo">
+
+### Mr Dumolwenkosi Maposa  
+**Research Technician**  
+**Start:** 2025
+</div>
+
+<div class="team-card tech-card">
+<img src="images/team/shalya.jpg" class="team-photo">
+
+### Ms Shalya Moodley  
+**Research Technician**  
+**Start:** 2025
+</div>
+
+</div>
+
+---
+
+# PhD Candidates
+
+<div class="team-grid">
+
+<div class="team-card phd-card">
+<img src="images/team/alec.jpg" class="team-photo">
+
+### Mr Alec Edwards  
+**PhD Candidate | UFS**  
+**Co-supervisor**  
+**Start:** 2022
+</div>
+
+<div class="team-card phd-card">
+<img src="images/team/thabiso.jpg" class="team-photo">
+
+### Mr Thabiso Masisi  
+**PhD Candidate | UFS**  
+**Primary supervisor**  
+**Start:** 2022
+</div>
+
+</div>
+
+---
+
+# MSc & MSc Agric Candidates
+
+<div class="team-grid">
+
+<div class="team-card msc-card">
+<img src="images/team/diana.jpg" class="team-photo">
+
+### Diana Mnogemzulu  
+**MSc Candidate | UFS**  
+**Co-supervisor**  
+**Start:** 2022
+</div>
+
+<div class="team-card msc-card">
+<img src="images/team/lukhetfo.jpg" class="team-photo">
+
+### Lukhetfo Mazibuko  
+**MSc Candidate | UP-FABI**  
+**Co-supervisor**  
+**Start:** 2025
+</div>
+
+<div class="team-card msc-card">
+<img src="images/team/mariana.jpg" class="team-photo">
+
+### Mariana van Deventer  
+**MSc Candidate | Stellenbosch University**  
+**Co-supervisor**  
+**Start:** 2023
+</div>
+
+<div class="team-card msc-card">
+<img src="images/team/marais-student.jpg" class="team-photo">
+
+### Marais Cloete  
+**MSc Agric Candidate | UFS**  
+**Start:** 2024
+</div>
+
+<div class="team-card msc-card">
+<img src="images/team/michelle.jpg" class="team-photo">
+
+### Michelle Rossi  
+**MSc Candidate | UFS – Plantovita**  
+**Primary supervisor**  
+**Start:** 2023
+</div>
+
+<div class="team-card msc-card">
+<img src="images/team/nomvula.png" class="team-photo">
+
+### Nomvula Moloi  
+**MSc Agric Candidate | UFS**  
+**Primary supervisor**  
+**Start:** 2024
+</div>
+
+<div class="team-card msc-card">
+<img src="images/team/tjitjila.jpg" class="team-photo">
+
+### Tjitjila Makhura  
+**MSc Agric Candidate | UFS – ARC GCI**  
+**Primary supervisor**  
+**Start:** 2025
+</div>
+
+<div class="team-card msc-card">
+<img src="images/team/athinkosi.jpg" class="team-photo">
+
+### Athinkosi Nongemane  
+**MSc Agric Candidate | UFS – ARC GCI**  
+**Primary supervisor**  
+**Start:** 2025
 
 <details class="team-details">
+<summary>More about Athinkosi</summary>
 
-<summary>More about Kwanele</summary>
+Add info here on project
+1) aim 1  
+2) aim 2 
 
-Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agronomy in 2025. His dissertation centered on 1) developing and validating a Standard Area Diagram Set (SAD) to strengthen the accuracy and reliability of Sclerotinia head rot severity assessments in sunflower and 2) premature desiccation of at-risk sunflower against Sclerotinia head rot.
-
-**Project & Outputs:**\
-[Quantifying Sclerotinia head rot of sunflower](projects/2025-sunflower-head-rot.html)
-
+**Project:**  
 </details>
 
+</div>
+
+<div class="team-card msc-card">
+<img src="images/team/kwanele.jpg" class="team-photo">
+
+### Kwanele Sabela  
+**MSc Agric | UFS**  
+**2023–2026**
+
+<details class="team-details">
+<summary>More about Kwanele</summary>
+
+Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agronomy in 2025. His dissertation focused on  
+1) developing & validating a Standard Area Diagram (SAD) for Sclerotinia head rot, and  
+2) premature desiccation of at-risk sunflower crops.
+
+**Project:**  
+[Quantifying Sclerotinia head rot of sunflower](projects/2025-sunflower-head-rot.html)
+</details>
+
+</div>
+
+</div>
+
+---
+
+# BSc Agric & Honours Students
+
+<div class="team-grid">
+
+<div class="team-card hons-card">
+<img src="images/team/nanelo.jpg" class="team-photo">
+
+### Nanelo Mzileni  
+**BSc Agric – Plant Pathology**  
+**Start:** 2026
+</div>
+
+<div class="team-card hons-card">
+<img src="images/team/ntuthuko.jpg" class="team-photo">
+
+### Ntuthuko Ngcobo  
+**BSc Agric – Plant Pathology**  
+**Start:** 2026
+</div>
+
+</div>
+
+---
+
 # Collaborators & Co-workers
+
+<div class="team-grid">
+
+<div class="team-card collab-card">
+<img src="images/team/annelie.jpg" class="team-photo">
+
+### Ms Annelie de Beer  
+**ARC–GCI**
+</div>
+
+<div class="team-card collab-card">
+<img src="images/team/belinda.jpg" class="team-photo">
+
+### Dr Belinda Janse van Rensburg  
+**ARC–GCI**
+</div>
+
+<div class="team-card collab-card">
+<img src="images/team/david.jpg" class="team-photo">
+
+### Dr Davind Nsibo  
+**UP–FABI**
+</div>
+
+<div class="team-card collab-card">
+<img src="images/team/diane.jpg" class="team-photo">
+
+### Dr Diane Mostert  
+**Stellenbosch University**
+</div>
+
+<div class="team-card collab-card">
+<img src="images/team/safia.jpg" class="team-photo">
+
+### Dr Safia Ma'ali  
+**ARC–GCI**
+</div>
+
+<div class="team-card collab-card">
+<img src="images/team/lizette.jpg" class="team-photo">
+
+### Ms Lizette Nowers  
+**Western Cape Department of Agriculture**
+</div>
+
+</div>
+
+---
+
+# Successful Graduates
+
+<div class="team-grid">
+
+<div class="team-card grad-card">
+<img src="images/team/neo.jpg" class="team-photo">
+
+### Mr Neo Hlongwane  
+**MSc Agric Plant Pathology**  
+**Graduated:** 2024
+</div>
+
+<div class="team-card grad-card">
+<img src="images/team/marlese.jpg" class="team-photo">
+
+### Mrs Marlese Meiring  
+**PhD Plant Pathology**  
+**Graduated:** 2022
+</div>
+
+<div class="team-card grad-card">
+<img src="images/team/thabiso-m.jpg" class="team-photo">
+
+### Mr Thabiso Masisi  
+**MSc Agric Plant Pathology**  
+**Graduated:** 2018
+</div>
+
+</div>
+
+---
+
+# Past Staff
+
+<div class="team-grid">
+
+<div class="team-card past-card">
+<img src="images/team/marais-staff.jpg" class="team-photo">
+
+### Mr Marais Cloete  
+**Start:** 2024  
+**End:** 2025
+</div>
+
+</div>

@@ -1,39 +1,35 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - CNAME
 
 website:
-  title: "McLab Field Pathology & Epidemiology Group"
   site-url: https://mclab-plant-pathology.co.za
+  title: "McLab Field Pathology & Epidemiology Group"
 
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Background & Vision
+        text: Who We Are
       - href: team.qmd
         text: Meet the Team
       - href: projects.qmd
         text: Projects
+      - href: updates.qmd
+        text: What We Are Up To
       - href: acknowledgments.qmd
         text: Acknowledgments
-      - href: updates.qmd
-        text: What we are up to
       - href: contact.qmd
-        text: Contact & Work with us
+        text: Contact & Work With Us
 
 format:
   html:
     theme:
       light: lux
       dark: darkly
-    toggle: true
     css: styles.scss
+    toc: true
 
-execute:
-  echo: false
-  warning: false
-  message: false
+resources:
+  - images   # ← THIS IS THE FIX

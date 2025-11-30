@@ -12,8 +12,3 @@ listing:
 ---
 
 Short snapshots of what we are doing in the lab and in the field: field work, workshops, conferences and small milestones.
-
-::: {#listing}
-:::
-
-![](images/updates/lab-opening.jpg){.hidden}

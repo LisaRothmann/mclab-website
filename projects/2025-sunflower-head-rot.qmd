@@ -1,7 +1,7 @@
 ---
 title: "Quantifying Sclerotinia head rot of sunflower"
 description: "Designing and validating a standard area diagram to strengthen accuracy and reliability in assessing Sclerotinia head rot severity."
-image: images/projects/head-rot-sad-proj.jpg
+image: docs/images/projects/head-rot-sad-proj.jpg
 categories: [Current]
 date: 2025-11-07
 ---
@@ -24,7 +24,7 @@ This project forms part of [Kwanele Sabela](../team.html#kwanele-sabela)’s MSc
 -   Conference presentations and scientific papers
     -   [International Symposium on Plant Pathogenic Sclerotiniaceae](#)
 -   Tools and resources
-    -   [Standard area diagram set (SAD)](images/sclerotinia-head-rot-sad.jpg)
+    -   [Standard area diagram set (SAD)](images/projects/sclerotinia-head-rot-sad.jpg)
     -   [Training in TraineR2](https://delponte.shinyapps.io/traineR2/)
 
 ## Status
