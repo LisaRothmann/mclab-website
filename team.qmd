@@ -51,9 +51,9 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 <div class="team-grid">
 
 <div class="team-card tech-card">
-<img src="images/team/dumo.jpg" class="team-photo">
+<img src="images/team/dumo.JPG" class="team-photo">
 
-### Mr Dumolwenkosi Maposa  
+### Dumolwenkosi Maposa  
 **Research Technician**  
 **Start:** 2025
 </div>
@@ -61,7 +61,7 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 <div class="team-card tech-card">
 <img src="images/team/shalya.jpg" class="team-photo">
 
-### Ms Shalya Moodley  
+### Shalya Moodley  
 **Research Technician**  
 **Start:** 2025
 </div>
@@ -77,7 +77,7 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 <div class="team-card phd-card">
 <img src="images/team/alec.jpg" class="team-photo">
 
-### Mr Alec Edwards  
+### Alec Edwards  
 **PhD Candidate | UFS**  
 **Co-supervisor**  
 **Start:** 2022
@@ -86,7 +86,7 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 <div class="team-card phd-card">
 <img src="images/team/thabiso.jpg" class="team-photo">
 
-### Mr Thabiso Masisi  
+### Thabiso Masisi  
 **PhD Candidate | UFS**  
 **Primary supervisor**  
 **Start:** 2022
@@ -238,8 +238,17 @@ Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agro
 <div class="team-card collab-card">
 <img src="images/team/annelie.jpg" class="team-photo">
 
-### Ms Annelie de Beer  
+### Annelie de Beer  
 **ARC–GCI**
+Soybean Agronomist
+</div>
+
+<div class="team-card collab-card">
+<img src="images/team/lizette-b.jpg" class="team-photo">
+
+### Lizette Bronkhorst 
+**ARC–GCI**
+Soybean Agronomist
 </div>
 
 <div class="team-card collab-card">
@@ -247,13 +256,15 @@ Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agro
 
 ### Dr Belinda Janse van Rensburg  
 **ARC–GCI**
+Plant Pathologist 
 </div>
 
 <div class="team-card collab-card">
 <img src="images/team/david.jpg" class="team-photo">
 
-### Dr Davind Nsibo  
+### Dr David Nsibo  
 **UP–FABI**
+Plant Pathologist
 </div>
 
 <div class="team-card collab-card">
@@ -261,6 +272,7 @@ Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agro
 
 ### Dr Diane Mostert  
 **Stellenbosch University**
+Plant Pathologist
 </div>
 
 <div class="team-card collab-card">
@@ -268,13 +280,15 @@ Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agro
 
 ### Dr Safia Ma'ali  
 **ARC–GCI**
+Sunflower Agronomist
 </div>
 
 <div class="team-card collab-card">
 <img src="images/team/lizette.jpg" class="team-photo">
 
-### Ms Lizette Nowers  
+### Lizette Nowers  
 **Western Cape Department of Agriculture**
+Head Agricultural Technician
 </div>
 
 </div>
@@ -288,7 +302,7 @@ Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agro
 <div class="team-card grad-card">
 <img src="images/team/neo.jpg" class="team-photo">
 
-### Mr Neo Hlongwane  
+### Neo Hlongwane  
 **MSc Agric Plant Pathology**  
 **Graduated:** 2024
 </div>
@@ -296,7 +310,7 @@ Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agro
 <div class="team-card grad-card">
 <img src="images/team/marlese.jpg" class="team-photo">
 
-### Mrs Marlese Meiring  
+### Marlese Meiring  
 **PhD Plant Pathology**  
 **Graduated:** 2022
 </div>
@@ -304,7 +318,7 @@ Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agro
 <div class="team-card grad-card">
 <img src="images/team/thabiso-m.jpg" class="team-photo">
 
-### Mr Thabiso Masisi  
+### Thabiso Masisi  
 **MSc Agric Plant Pathology**  
 **Graduated:** 2018
 </div>
