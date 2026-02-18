@@ -40,6 +40,13 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 ### Dr Knowledge Mushonga  
 **Postdoctoral Fellow**  
 **Start:** 2025
+
+<details class="team-details">
+<summary>More about Knowledge</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 </div>
@@ -56,14 +63,58 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 ### Dumolwenkosi Maposa  
 **Research Technician**  
 **Start:** 2025
+
+<details class="team-details">
+<summary>More about Dumolwenkosi</summary>
+
+To be updated
+
+</details>
 </div>
 
 <div class="team-card tech-card">
-<img src="images/team/shalya.jpg" class="team-photo">
+<img src="images/team/thabiso.jpg" class="team-photo">
 
-### Shalya Moodley  
+### Thabiso Masisi  
 **Research Technician**  
-**Start:** 2025
+**Start:** 2026
+
+<details class="team-details">
+<summary>More about Thabiso</summary>
+
+To be updated
+
+</details>
+</div>
+
+<div class="team-card tech-card">
+<img src="images/team/kwanele.jpg" class="team-photo">
+
+### Kwanele Sabela  
+**Research Technician**  
+**Start:** 2026
+
+<details class="team-details">
+<summary>More about Kwanele</summary>
+
+To be updated
+
+</details>
+</div>
+
+<div class="team-card tech-card">
+<img src="images/team/nomvula.png" class="team-photo">
+
+### Nomvula Moloi  
+**Research Technician**  
+**Start:** 2026
+
+<details class="team-details">
+<summary>More about Nomvula</summary>
+
+To be updated
+
+</details>
 </div>
 
 </div>
@@ -81,6 +132,13 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 **PhD Candidate | UFS**  
 **Co-supervisor**  
 **Start:** 2022
+
+<details class="team-details">
+<summary>More about Alec</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 <div class="team-card phd-card">
@@ -90,6 +148,48 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 **PhD Candidate | UFS**  
 **Primary supervisor**  
 **Start:** 2022
+
+<details class="team-details">
+<summary>More about Thabiso</summary>
+
+Thabiso Masisi is a plant pathologist and PhD researcher in the McLab Field Pathology & Epidemiology Group, specialising in the epidemiology of fungal diseases affecting sorghum in South Africa. His research focuses on large-scale field disease surveillance across major sorghum-producing regions, with an emphasis on understanding disease distribution, incidence, and severity under different agro-ecological conditions. His work integrates field-based disease assessments, laboratory diagnostics, and molecular identification of fungal pathogens, alongside statistical and spatial data analysis. Through this approach, he aims to generate evidence that supports disease risk assessment, informs management strategies, and strengthens the translation of epidemiological research into practical tools for farmers and stakeholders.
+
+Project Title: Incidence, management and producer perceptions of fungal diseases in sorghum cropping systems
+
+</details>
+</div>
+
+<div class="team-card phd-card">
+<img src="images/team/mariana.jpg" class="team-photo">
+
+### Mariana van Deventer  
+**PhD Candidate | Stellenbosch University**  
+**Co-supervisor**  
+**Start:** 2023
+
+<details class="team-details">
+<summary>More about Mariana</summary>
+
+Mariana van Deventer is a postgraduate student in the Plant Pathology Department at the University of Stellenbosch. Her research focuses on Sclerotinia stem rot development on canola and chemical control, with particular emphasis on _Sclerotinia sclerotiorum_ epidemiology and disease risk prediction. She evaluates fungicide deposition and efficacy, monitors disease development in the field with molecular diagnostics, uses custom-made spore samplers to detect airborne spores, records micro- and macroclimate data from field locations in the Western Cape, and analyses the data using R software, aiming to develop a risk prediction model for canola stem rot, that would potentially equip local producers with a tool to enhance their decision-making process regarding economic fungicide application.
+
+Project Title: Modelling the risk of Sclerotinia stem rot of canola in the Western Cape of South Africa for improved chemical control
+
+</details>
+</div>
+
+<div class="team-card phd-card">
+<img src="images/team/kwanele.jpg" class="team-photo">
+
+### Kwanele Sabela  
+**PhD Candidate | UFS**  
+**Start:** 2026
+
+<details class="team-details">
+<summary>More about Kwanele</summary>
+
+Kwanele Sabela is a Plant pathologist and newly doctoral candidate. More will be uploaded soon - watch this space. 
+
+</details>
 </div>
 
 </div>
@@ -107,6 +207,13 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 **MSc Candidate | UFS**  
 **Co-supervisor**  
 **Start:** 2022
+
+<details class="team-details">
+<summary>More about Diana</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 <div class="team-card msc-card">
@@ -116,15 +223,15 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 **MSc Candidate | UP-FABI**  
 **Co-supervisor**  
 **Start:** 2025
-</div>
 
-<div class="team-card msc-card">
-<img src="images/team/mariana.jpg" class="team-photo">
+<details class="team-details">
+<summary>More about Lukhetfo</summary>
 
-### Mariana van Deventer  
-**MSc Candidate | Stellenbosch University**  
-**Co-supervisor**  
-**Start:** 2023
+Lukhetfo Mazibuko is a postgraduate student in the Cereal Pathology Research Group in the Department of Plant and Soil Science at the University of Pretoria. His research focuses on the population genetics of _Exserohilum turcicum_, the pathogen responsible for sorghum leaf blight, across Africa. He investigates the genetic diversity and population structure in _E. turcicum_ at multiple spatial scales. His work also evaluates the comparative virulence of _E. turcicum_ strains isolated from sorghum, contributing to improved understanding of host–pathogen interactions and disease evolution in sorghum leaf blight.
+
+Project title: Characterization of the aggressiveness and the effect of host genotypes on the population genetics of _Exserohilum turcicum_ isolates from sorghum
+
+</details>
 </div>
 
 <div class="team-card msc-card">
@@ -134,6 +241,13 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 **MSc Agric Candidate | UFS**  
 **Primary supervisor**  
 **Start:** 2024
+
+<details class="team-details">
+<summary>More about Marais</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 <div class="team-card msc-card">
@@ -143,6 +257,13 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 **MSc Candidate | UFS – Plantovita**  
 **Primary supervisor**  
 **Start:** 2023
+
+<details class="team-details">
+<summary>More about Michelle</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 <div class="team-card msc-card">
@@ -152,6 +273,15 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 **MSc Agric Candidate | UFS**  
 **Primary supervisor**  
 **Start:** 2024
+
+<details class="team-details">
+<summary>More about Nomvula</summary>
+
+Nomvula Moloi's research focuses on the identification of grain sorghum fungal pathogens, with particular emphasis on in-field sampling of sorghum leaves and panicles, as well as morphological and molecular diagnostics. Her current work also explores the biochemical responses of sorghum to uncover underlying tolerance mechanisms to _Exserohilum turcicum_ (leaf blight pathogen) under greenhouse conditions using controlled inoculum spraying methods. She contributes to the research group through field surveys, laboratory diagnostics, and collaborative research activities that support disease surveillance and sorghum improvement efforts.
+
+Project Title: Fungal pathogen identification and biochemical responses in grain sorghum
+
+</details>
 </div>
 
 <div class="team-card msc-card">
@@ -161,6 +291,13 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 **MSc Agric Candidate | UFS – ARC GCI**  
 **Primary supervisor**  
 **Start:** 2025
+
+<details class="team-details">
+<summary>More about Tjitjila</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 <div class="team-card msc-card">
@@ -174,40 +311,18 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 <details class="team-details">
 <summary>More about Athinkosi</summary>
 
-Add info here on project
-1) aim 1  
-2) aim 2 
+Athinkosi Nogemane's research focuses on the epidemiology, population variation, and mycotoxin risk of _Alternaria_ species in sunflower grain and oil across multiple localities in South Africa. His work integrates multi-site field surveys, in-field inoculations, and classical and molecular diagnostics, including qPCR optimisation, PCR-RFLP, and phylogenetic analyses. Through field-based research and laboratory-based pathogen characterization, he contributes to disease surveillance and the development of improved management strategies to support sunflower crop protection and food safety.
 
-**Project:**  
+Project Title: Determining the prevalence and variation of _Alternaria_ spp. in Sunflower grain and concomitant mycotoxin production in the value chain
+
 </details>
-
-</div>
-
-<div class="team-card msc-card">
-<img src="images/team/kwanele.jpg" class="team-photo">
-
-### Kwanele Sabela  
-**MSc Agric | UFS**  
-**2023–2026**
-
-<details class="team-details">
-<summary>More about Kwanele</summary>
-
-Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agronomy in 2025. His dissertation focused on  
-1) developing & validating a Standard Area Diagram (SAD) for Sclerotinia head rot, and  
-2) premature desiccation of at-risk sunflower crops.
-
-**Project:**  
-[Quantifying Sclerotinia head rot of sunflower](projects/2025-sunflower-head-rot.html)
-</details>
-
 </div>
 
 </div>
 
 ---
 
-# BSc Agric & Honours Students
+# BSc Agric 4th Years & Honours Students
 
 <div class="team-grid">
 
@@ -217,6 +332,13 @@ Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agro
 ### Nanelo Mzileni  
 **BSc Agric – Plant Pathology**  
 **Start:** 2026
+
+<details class="team-details">
+<summary>More about Nanelo</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 <div class="team-card hons-card">
@@ -225,6 +347,13 @@ Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agro
 ### Ntuthuko Ngcobo  
 **BSc Agric – Plant Pathology**  
 **Start:** 2026
+
+<details class="team-details">
+<summary>More about Ntuthuko</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 </div>
@@ -239,56 +368,105 @@ Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agro
 <img src="images/team/annelie.jpg" class="team-photo">
 
 ### Annelie de Beer  
-**ARC–GCI**
+**ARC–GCI**  
 Soybean Agronomist
+
+<details class="team-details">
+<summary>More about Annelie</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 <div class="team-card collab-card">
 <img src="images/team/lizette-b.jpg" class="team-photo">
 
-### Lizette Bronkhorst 
-**ARC–GCI**
+### Lizette Bronkhorst  
+**ARC–GCI**  
 Soybean Agronomist
+
+<details class="team-details">
+<summary>More about Lizette B.</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 <div class="team-card collab-card">
 <img src="images/team/belinda.jpg" class="team-photo">
 
 ### Dr Belinda Janse van Rensburg  
-**ARC–GCI**
-Plant Pathologist 
+**ARC–GCI**  
+Plant Pathologist
+
+<details class="team-details">
+<summary>More about Belinda</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 <div class="team-card collab-card">
 <img src="images/team/david.jpg" class="team-photo">
 
 ### Dr David Nsibo  
-**UP–FABI**
+**UP–FABI**  
 Plant Pathologist
+
+<details class="team-details">
+<summary>More about David</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 <div class="team-card collab-card">
 <img src="images/team/diane.jpg" class="team-photo">
 
 ### Dr Diane Mostert  
-**Stellenbosch University**
+**Stellenbosch University**  
 Plant Pathologist
+
+<details class="team-details">
+<summary>More about Diane</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 <div class="team-card collab-card">
 <img src="images/team/safia.jpg" class="team-photo">
 
 ### Dr Safia Ma'ali  
-**ARC–GCI**
+**ARC–GCI**  
 Sunflower Agronomist
+
+<details class="team-details">
+<summary>More about Safia</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 <div class="team-card collab-card">
 <img src="images/team/lizette.jpg" class="team-photo">
 
 ### Lizette Nowers  
-**Western Cape Department of Agriculture**
+**Western Cape Department of Agriculture**  
 Head Agricultural Technician
+
+<details class="team-details">
+<summary>More about Lizette N.</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 </div>
@@ -305,6 +483,13 @@ Head Agricultural Technician
 ### Neo Hlongwane  
 **MSc Agric Plant Pathology**  
 **Graduated:** 2024
+
+<details class="team-details">
+<summary>More about Neo</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 <div class="team-card grad-card">
@@ -313,6 +498,13 @@ Head Agricultural Technician
 ### Marlese Meiring  
 **PhD Plant Pathology**  
 **Graduated:** 2022
+
+<details class="team-details">
+<summary>More about Marlese</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 <div class="team-card grad-card">
@@ -321,6 +513,32 @@ Head Agricultural Technician
 ### Thabiso Masisi  
 **MSc Agric Plant Pathology**  
 **Graduated:** 2018
+
+<details class="team-details">
+<summary>More about Thabiso (MSc)</summary>
+
+ADD TEXT HERE
+
+</details>
+</div>
+
+<div class="team-card grad-card">
+<img src="images/team/kwanele.jpg" class="team-photo">
+
+### Kwanele Sabela  
+**MSc Agric | UFS**  
+**Graduated:** 2025 (_cum laude_)
+
+<details class="team-details">
+<summary>More about Kwanele (MSc)</summary>
+
+<p>Kwanele Sabela completed his MSc Agric in Plant Pathology Interdisciplinary Agronomy in 2025. His dissertation focused on<br>
+  1) developing &amp; validating a Standard Area Diagram (SAD) for Sclerotinia head rot, and<br>
+  2) premature desiccation of at-risk sunflower crops.</p>
+
+  <strong>Project:</strong><br>
+  <a href="projects/2025-sunflower-head-rot.html">Quantifying Sclerotinia head rot of sunflower</a>
+</details>
 </div>
 
 </div>
@@ -332,11 +550,34 @@ Head Agricultural Technician
 <div class="team-grid">
 
 <div class="team-card past-card">
+<img src="images/team/shalya.jpg" class="team-photo">
+
+### Shalya Moodley  
+**Research Technician**  
+**Start:** 2025  
+**End:** 2026
+
+<details class="team-details">
+<summary>More about Shalya</summary>
+
+ADD TEXT HERE
+
+</details>
+</div>
+
+<div class="team-card past-card">
 <img src="images/team/marais-staff.jpg" class="team-photo">
 
 ### Mr Marais Cloete  
 **Start:** 2024  
 **End:** 2025
+
+<details class="team-details">
+<summary>More about Marais</summary>
+
+ADD TEXT HERE
+
+</details>
 </div>
 
 </div>

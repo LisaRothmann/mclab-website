@@ -1,7 +1,7 @@
 ---
 title: "Quantifying Sclerotinia head rot of sunflower"
 description: "Designing and validating a standard area diagram to strengthen accuracy and reliability in assessing Sclerotinia head rot severity."
-image: docs/images/projects/head-rot-sad-proj.jpg
+image: ../images/projects/head-rot-sad-proj.jpg
 categories: [Current]
 date: 2025-11-07
 ---
@@ -12,21 +12,21 @@ This project forms part of [Kwanele Sabela](../team.html#kwanele-sabela)’s MSc
 
 ## Key questions
 
--   Can we develop a Sclerotinia head rot standard area diagram (SAD) that improves accuracy, reliability and rater agreement?
--   How can we measure sunflower head rot severity accurately and consistently across raters, environments and seasons?
--   What level of rater error (inter- and intra-rater) affects current visual assessments, and how much can a standard area diagram improve reliability?
+- Can we develop a Sclerotinia head rot standard area diagram (SAD) that improves accuracy, reliability and rater agreement?
+- How can we measure sunflower head rot severity accurately and consistently across raters, environments and seasons?
+- What level of rater error (inter- and intra-rater) affects current visual assessments, and how much can a standard area diagram improve reliability?
 
 ## Outputs
 
--   Extension articles
-    -   [Enhancing sunflower head rot assessments with a purpose-built visual tool](https://www.pannar.com/news-and-insights/enhancing-sunflower-head-rot-assessments-with-a-purpose-built-visual-tool?l=)
-    -   [Developing and validating an SAD for reliable measurements](https://sagrainmag.co.za/2025/07/02/developing-and-validating-an-sad-for-reliable-measurements/)
--   Conference presentations and scientific papers
-    -   [International Symposium on Plant Pathogenic Sclerotiniaceae](#)
--   Tools and resources
-    -   [Standard area diagram set (SAD)](images/projects/sclerotinia-head-rot-sad.jpg)
-    -   [Training in TraineR2](https://delponte.shinyapps.io/traineR2/)
+- Extension articles
+  - [Enhancing sunflower head rot assessments with a purpose-built visual tool](https://www.pannar.com/news-and-insights/enhancing-sunflower-head-rot-assessments-with-a-purpose-built-visual-tool?l=)
+  - [Developing and validating an SAD for reliable measurements](https://sagrainmag.co.za/2025/07/02/developing-and-validating-an-sad-for-reliable-measurements/)
+- Conference presentations and scientific papers
+  - [International Symposium on Plant Pathogenic Sclerotiniaceae](#)
+- Tools and resources
+  - [Standard area diagram set (SAD)](../images/projects/sclerotinia-head-rot-sad.jpg)
+  - [Training in TraineR2](https://delponte.shinyapps.io/traineR2/)
 
 ## Status
 
-Completed, awaiting examiner reports.
+Completed, and Kwanele graduated with distinction.

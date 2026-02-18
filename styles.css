@@ -146,3 +146,68 @@
 [data-bs-theme="dark"] a {
   color: #8ad1ff;
 }
+
+
+/* --- Contact page cards: better dark-mode contrast --- */
+
+/* If your cards use Bootstrap-ish "card" classes */
+.card,
+.contact-card,
+.form-card,
+.quarto-figure,
+.quarto-layout-panel .card {
+  background: #ffffff;
+  border: 1px solid rgba(0,0,0,0.08);
+}
+
+/* Dark mode overrides (Quarto adds .quarto-dark to body) */
+.quarto-dark .card,
+.quarto-dark .contact-card,
+.quarto-dark .form-card,
+.quarto-dark .quarto-figure,
+.quarto-dark .quarto-layout-panel .card {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.14);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.28);
+}
+
+/* Make text readable inside cards in dark mode */
+.quarto-dark .card,
+.quarto-dark .contact-card,
+.quarto-dark .form-card {
+  color: rgba(255,255,255,0.88);
+}
+
+.quarto-dark .card h1,
+.quarto-dark .card h2,
+.quarto-dark .card h3,
+.quarto-dark .card h4,
+.quarto-dark .contact-card h1,
+.quarto-dark .contact-card h2,
+.quarto-dark .contact-card h3,
+.quarto-dark .contact-card h4 {
+  color: rgba(255,255,255,0.92);
+}
+
+/* Links inside cards in dark mode */
+.quarto-dark .card a,
+.quarto-dark .contact-card a,
+.quarto-dark .form-card a {
+  color: rgba(120, 200, 255, 0.95);
+  text-decoration-color: rgba(120, 200, 255, 0.55);
+}
+
+/* Inputs / textarea inside cards in dark mode */
+.quarto-dark input,
+.quarto-dark textarea,
+.quarto-dark select {
+  background: rgba(255,255,255,0.06);
+  color: rgba(255,255,255,0.9);
+  border: 1px solid rgba(255,255,255,0.18);
+}
+
+.quarto-dark input::placeholder,
+.quarto-dark textarea::placeholder {
+  color: rgba(255,255,255,0.55);
+}
+

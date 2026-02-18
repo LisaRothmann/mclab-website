@@ -1,7 +1,7 @@
 ---
 title: "McLab renovation and lab opening"
 description: "Celebrating the renovated McLab Field Pathology & Epidemiology space with students, colleagues and partners."
-image: docs/images/updates/lab-opening-small.jpg
+image: ../images/updates/lab-opening-small.jpg
 date: 2025-11-28
 ---
 
