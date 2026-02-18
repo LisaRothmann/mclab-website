@@ -1,6 +1,7 @@
 ---
-title: "Contact us and work with us"
+title: "Contact & Work with us"
 page-layout: article
+body-class: contact-page
 ---
 
 ## Contact us
@@ -33,7 +34,11 @@ To explore collaboration, email a short description of your idea, crop, region a
 ## Student opportunities
 
 ::: contact-box
-From time to time we host honours, MSc and PhD projects in field pathology and epidemiology.
+From time to time we host Honours, MSc and PhD projects in field pathology and epidemiology.
+
+At present, we do not have funded bursaries available within the group. 
+
+However, prospective students are welcome to approach us if they are interested in applying for external funding opportunities aligned with our research areas. While funding applications remain the responsibility of the applicant, we are open to discussing potential research ideas and suitable funding calls where there is good alignment. Please note that engagement in discussions does not guarantee supervision or funding support.  
 
 If you are interested in joining the group, send:
 

@@ -1,5 +1,5 @@
 /* =========================================
-   McLab – Basic Custom Styling (CSS only)
+   McLab – Site Styling
    ========================================= */
 
 /* ---------- Hero / Banner (Home) ---------- */
@@ -22,21 +22,6 @@
   max-width: 40rem;
 }
 
-/* ---------- Contact boxes ---------- */
-
-.contact-box {
-  padding: 1.5rem;
-  background: #fafafa;
-  border-radius: 0.75rem;
-  border: 1px solid rgba(0,0,0,0.06);
-  margin-bottom: 1.5rem;
-}
-
-[data-bs-theme="dark"] .contact-box {
-  background: #111111;
-  border-color: #333333;
-}
-
 /* ---------- Navbar logo ---------- */
 
 .navbar-brand img {
@@ -45,10 +30,60 @@
 }
 
 /* =========================================
-   TEAM PAGE – SQUARE PHOTOS + COLOUR CARDS
+   CONTACT PAGE – cards (light + dark mode)
    ========================================= */
 
-/* Team grid layout */
+/* Base contact boxes */
+.contact-box {
+  padding: 1.5rem;
+  background: #fafafa;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(0,0,0,0.06);
+  margin-bottom: 1.5rem;
+  color: #333333;
+}
+
+/* Make sure inner text inherits correctly (light mode) */
+.contact-box p,
+.contact-box li,
+.contact-box strong,
+.contact-box b,
+.contact-box em {
+  color: inherit;
+}
+
+/* Contact links (light mode) */
+.contact-box a {
+  color: #0b6bd6;
+  text-decoration-color: rgba(11, 107, 214, 0.35);
+}
+
+/* Dark mode contact page (Quarto/Bootstrap 5) */
+[data-bs-theme="dark"] .contact-page .contact-box {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.14);
+  color: rgba(255,255,255,0.90);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.28);
+}
+
+/* Ensure ALL inner text is readable in dark mode */
+[data-bs-theme="dark"] .contact-page .contact-box p,
+[data-bs-theme="dark"] .contact-page .contact-box li,
+[data-bs-theme="dark"] .contact-page .contact-box strong,
+[data-bs-theme="dark"] .contact-page .contact-box b,
+[data-bs-theme="dark"] .contact-page .contact-box em {
+  color: rgba(255,255,255,0.90);
+}
+
+/* Links inside contact boxes (dark mode) */
+[data-bs-theme="dark"] .contact-page .contact-box a {
+  color: #8ad1ff;
+  text-decoration-color: rgba(138, 209, 255, 0.55);
+}
+
+/* =========================================
+   TEAM PAGE – grid + cards + square photos
+   ========================================= */
 
 .team-grid {
   display: grid;
@@ -57,8 +92,7 @@
   margin-top: 2rem;
 }
 
-/* Basic team card */
-
+/* Base card */
 .team-card {
   background: #ffffff;
   color: #333333;
@@ -75,139 +109,61 @@
   box-shadow: 0 10px 18px rgba(0,0,0,0.12);
 }
 
-/* Dark mode for cards */
-
+/* Dark mode for team cards */
 [data-bs-theme="dark"] .team-card {
-  background: #1b1b1b;
-  color: #f0f0f0;
-  border-color: #333333;
+  background: rgba(255,255,255,0.06);
+  color: rgba(255,255,255,0.90);
+  border-color: rgba(255,255,255,0.14);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.28);
 }
 
-/* Team photos – SMALL ROUNDED SQUARES */
-
+/* Photos: small rounded squares */
 .team-photo {
   width: 160px;
   height: 160px;
   object-fit: cover;
-  border-radius: 12px;   /* rounded square */
+  border-radius: 12px;
   display: block;
   margin: 0 auto 1rem auto;
 }
 
 /* Category accent colours (border-left) */
-
-.pi-card {
-  border-left: 6px solid #1446a0;  /* deep blue */
-}
-
-.postdoc-card {
-  border-left: 6px solid #6eb437;  /* light green */
-}
-
-.tech-card {
-  border-left: 6px solid #00964f;  /* strong green */
-}
-
-.phd-card {
-  border-left: 6px solid #f08200;  /* orange */
-}
-
-.msc-card {
-  border-left: 6px solid #f0e628;  /* yellow */
-}
-
-.hons-card {
-  border-left: 6px solid #8fd17f;  /* soft light green */
-}
-
-.grad-card {
-  border-left: 6px solid #777777;  /* grey */
-}
-
-.past-card {
-  border-left: 6px solid #b0b0b0;  /* light grey */
-}
-
-.collab-card {
-  border-left: 6px solid #6eb437;  /* same as postdoc */
-}
+.pi-card     { border-left: 6px solid #1446a0; }  /* deep blue */
+.postdoc-card { border-left: 6px solid #6eb437; }  /* light green */
+.tech-card   { border-left: 6px solid #00964f; }  /* strong green */
+.phd-card    { border-left: 6px solid #f08200; }  /* orange */
+.msc-card    { border-left: 6px solid #f0e628; }  /* yellow */
+.hons-card   { border-left: 6px solid #8fd17f; }  /* soft light green */
+.grad-card   { border-left: 6px solid #777777; }  /* grey */
+.past-card   { border-left: 6px solid #b0b0b0; }  /* light grey */
+.collab-card { border-left: 6px solid #6eb437; }  /* same as postdoc */
 
 /* Details summary styling */
-
 .team-details summary {
   cursor: pointer;
   font-weight: 500;
   margin-top: 0.5rem;
 }
 
-/* Dark-mode links and summary text */
-
-[data-bs-theme="dark"] .team-details summary,
+/* Links (global): keep readable in dark mode */
 [data-bs-theme="dark"] a {
   color: #8ad1ff;
+  text-decoration-color: rgba(138, 209, 255, 0.55);
 }
 
-
-/* --- Contact page cards: better dark-mode contrast --- */
-
-/* If your cards use Bootstrap-ish "card" classes */
-.card,
-.contact-card,
-.form-card,
-.quarto-figure,
-.quarto-layout-panel .card {
-  background: #ffffff;
-  border: 1px solid rgba(0,0,0,0.08);
-}
-
-/* Dark mode overrides (Quarto adds .quarto-dark to body) */
-.quarto-dark .card,
-.quarto-dark .contact-card,
-.quarto-dark .form-card,
-.quarto-dark .quarto-figure,
-.quarto-dark .quarto-layout-panel .card {
-  background: rgba(255,255,255,0.06);
-  border: 1px solid rgba(255,255,255,0.14);
-  box-shadow: 0 6px 18px rgba(0,0,0,0.28);
-}
-
-/* Make text readable inside cards in dark mode */
-.quarto-dark .card,
-.quarto-dark .contact-card,
-.quarto-dark .form-card {
-  color: rgba(255,255,255,0.88);
-}
-
-.quarto-dark .card h1,
-.quarto-dark .card h2,
-.quarto-dark .card h3,
-.quarto-dark .card h4,
-.quarto-dark .contact-card h1,
-.quarto-dark .contact-card h2,
-.quarto-dark .contact-card h3,
-.quarto-dark .contact-card h4 {
-  color: rgba(255,255,255,0.92);
-}
-
-/* Links inside cards in dark mode */
-.quarto-dark .card a,
-.quarto-dark .contact-card a,
-.quarto-dark .form-card a {
-  color: rgba(120, 200, 255, 0.95);
-  text-decoration-color: rgba(120, 200, 255, 0.55);
-}
-
-/* Inputs / textarea inside cards in dark mode */
-.quarto-dark input,
-.quarto-dark textarea,
-.quarto-dark select {
+/* =========================================
+   Optional: form fields in dark mode
+   (harmless if you don't have forms)
+   ========================================= */
+[data-bs-theme="dark"] input,
+[data-bs-theme="dark"] textarea,
+[data-bs-theme="dark"] select {
   background: rgba(255,255,255,0.06);
   color: rgba(255,255,255,0.9);
   border: 1px solid rgba(255,255,255,0.18);
 }
 
-.quarto-dark input::placeholder,
-.quarto-dark textarea::placeholder {
+[data-bs-theme="dark"] input::placeholder,
+[data-bs-theme="dark"] textarea::placeholder {
   color: rgba(255,255,255,0.55);
 }
-
