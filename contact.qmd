@@ -11,7 +11,7 @@ body-class: contact-page
 
 For general enquiries about the McLab Field Pathology & Epidemiology Group:
 
--   Email: <a href="mailto:your.email@ufs.ac.za">your.email\@ufs.ac.za</a>
+-   Email: <a href="mailto:your.email@ufs.ac.za">coetzeeLA\@ufs.ac.za</a>
 
 **Address**
 
@@ -28,7 +28,7 @@ We welcome collaboration across research, industry and producer organisations. T
 -   Modelling and forecasting tool development\
 -   Co-developed extension materials and training events
 
-To explore collaboration, email a short description of your idea, crop, region and timelines to <a href="mailto:your.email@ufs.ac.za">your.email\@ufs.ac.za</a>.
+To explore collaboration, email a short description of your idea, crop, region and timelines to <a href="mailto:your.email@ufs.ac.za">coetzeeLA\@ufs.ac.za</a>.
 :::
 
 ## Student opportunities
@@ -46,5 +46,5 @@ If you are interested in joining the group, send:
 -   Academic transcripts\
 -   A short paragraph on why you are interested in field pathology and epidemiology
 
-to <a href="mailto:your.email@ufs.ac.za">your.email\@ufs.ac.za</a>.
+to <a href="mailto:your.email@ufs.ac.za">coetzeeLA\@ufs.ac.za</a>.
 :::

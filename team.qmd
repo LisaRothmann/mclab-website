@@ -44,7 +44,9 @@ Dr Lisa Rothmann leads the McLab Field Pathology & Epidemiology Group at the Uni
 <details class="team-details">
 <summary>More about Knowledge</summary>
 
-ADD TEXT HERE
+Dr Knowledge Mushonga is currently a Postdoctoral Fellow contributing to novel intervention strategies for _Sclerotinia_, research on ergot of sorghum, and broader _Sclerotinia_ research within the group. He also serves as a Lecturer at the National University of Science and Technology and is completing an MSc focused on Climate Change and Agriculture.
+
+He holds a PhD in Plant Science, where he investigated the impact of crop rotation on soil and plant health in dryland production systems of the Eastern Free State. His academic background includes an MSc in Applied Microbiology and Biotechnology, examining the genetic diversity of wild Sorghum arundinaceum using molecular markers, and an Honours degree in Applied Biology and Biochemistry. His research interests span plant and soil health, genetic diversity of underutilized species, biostatistics, and plant pathology.
 
 </details>
 </div>
@@ -67,7 +69,7 @@ ADD TEXT HERE
 <details class="team-details">
 <summary>More about Dumolwenkosi</summary>
 
-To be updated
+Dumo Maposa is a Research Technician involved in oilseed disease surveillance, with a strong focus on sunflower and soybean systems. He supports cultivar evaluation trials and assists with fungicide and herbicide efficacy studies targeting Sclerotinia head rot in sunflower. Dumo co-coordinates the #SclerotiniaZA Research Network and works closely with producers through extension activities, contributing to the translation of research findings into practical field applications.
 
 </details>
 </div>
@@ -82,7 +84,7 @@ To be updated
 <details class="team-details">
 <summary>More about Thabiso</summary>
 
-To be updated
+Thabiso Masisi is a Research Technician contributing to soybean and sunflower disease surveys, with a focus on laboratory diagnostics and pathogen characterisation. His work supports the identification and analysis of key fungal pathogens within oilseed systems, strengthening the group’s capacity for evidence-based disease surveillance and applied research.
 
 </details>
 </div>
@@ -97,7 +99,7 @@ To be updated
 <details class="team-details">
 <summary>More about Kwanele</summary>
 
-To be updated
+Kwanele Sabela is a Research Technician with a primary focus on _Sclerotinia_ cultivar evaluation in soybean and sunflower systems. He contributes to fungicide and herbicide efficacy trials targeting Sclerotinia head rot and is actively involved in oilseed disease surveillance initiatives. Kwanele also co-coordinates the #SclerotiniaZA Research Network, contributing to collaborative research efforts and the translation of science into practical value for society.
 
 </details>
 </div>
@@ -112,7 +114,7 @@ To be updated
 <details class="team-details">
 <summary>More about Nomvula</summary>
 
-To be updated
+Nomvula Moloi is a Research Technician supporting soybean and sunflower disease surveys, with a primary focus on laboratory-based diagnostics. She contributes to the identification and characterization of pathogens, including Cercospora species associated with soybean and fungal communities linked to uChokwane (tepary bean). Nomvula also plays a key role in maintaining the laboratory culture collection, overseeing inventory management, and supporting general laboratory operations to ensure research continuity and quality control.
 
 </details>
 </div>
@@ -136,7 +138,7 @@ To be updated
 <details class="team-details">
 <summary>More about Alec</summary>
 
-ADD TEXT HERE
+Alec is currently completing a PhD in Plant Health Ecology at the University of the Free State, where his research focuses on enhancing sustainable soybean production through plant growth-promoting bacteria and biological control strategies for the management of _Sclerotinia sclerotiorum_. He serves as an Applied Science Manager at Afrikelp, leading local and international field trials on seaweed-based biostimulants and investigating their biochemical and physiological mechanisms to optimise plant growth, nutrient uptake, and stress resilience.
 
 </details>
 </div>
@@ -203,7 +205,7 @@ Kwanele Sabela is a Plant pathologist and newly doctoral candidate. More will be
 <div class="team-card msc-card">
 <img src="images/team/diana.jpg" class="team-photo">
 
-### Diana Mnogemzulu  
+### Diana Mngomezulu
 **MSc Candidate | UFS**  
 **Co-supervisor**  
 **Start:** 2022
@@ -211,7 +213,7 @@ Kwanele Sabela is a Plant pathologist and newly doctoral candidate. More will be
 <details class="team-details">
 <summary>More about Diana</summary>
 
-ADD TEXT HERE
+Diana is currently completing her MSc in Plant Breeding at the University of the Free State, co-supervised by Dr Rothmann, with a research focus on resistance to Fusarium head blight in wheat and the screening of alternative biofungicides against _Fusarium_ isolates. She is employed as a Researcher at CenGen (Pty) Ltd, where she contributes to applied research and diagnostic services within the agricultural sector.
 
 </details>
 </div>
@@ -245,7 +247,7 @@ Project title: Characterization of the aggressiveness and the effect of host gen
 <details class="team-details">
 <summary>More about Marais</summary>
 
-ADD TEXT HERE
+Marais Cloete is currently completing his MSc Agric in Plant Pathology under the supervision of Dr Rothmann. His research focuses on the use of remote sensing technologies and chlorine-based interventions for the management of Sclerotinia stem rot in soybean.
 
 </details>
 </div>
@@ -261,7 +263,7 @@ ADD TEXT HERE
 <details class="team-details">
 <summary>More about Michelle</summary>
 
-ADD TEXT HERE
+Michelle Rossi is an MSc candidate under the supervision of Dr Rothmann, focusing on dry bean anthracnose (_Colletotrichum_ spp.), specifically investigating race virulence and varietal reactions of dry bean cultivars in South Africa. She is employed as a Laboratory Technologist for Dry Beans at Plantovita.
 
 </details>
 </div>
@@ -295,7 +297,7 @@ Project Title: Fungal pathogen identification and biochemical responses in grain
 <details class="team-details">
 <summary>More about Tjitjila</summary>
 
-ADD TEXT HERE
+Tjitjila Makhura is an MSc student at the Agricultural Research Council, Grain Crops, under the supervision of Dr Belinda Janse van Rensburg, and is registered at the University of the Free State under the supervision of Dr Rothmann. Her research focuses on _Sclerotinia sclerotiorum_ and _Agroathelia rolfsii_ in dry bean systems, including disease surveillance and cultivar screening for resistance.
 
 </details>
 </div>
@@ -336,7 +338,7 @@ Project Title: Determining the prevalence and variation of _Alternaria_ spp. in 
 <details class="team-details">
 <summary>More about Nanelo</summary>
 
-ADD TEXT HERE
+Nanelo Mzileni is a BSc Agric student conducting his final-year research project on sunflower head rot caused by Sclerotinia. His work focuses on quantifying yield losses, assessing cultivar variation in response to infection, and evaluating the performance of in vitro fungicide treatments.
 
 </details>
 </div>
@@ -351,7 +353,7 @@ ADD TEXT HERE
 <details class="team-details">
 <summary>More about Ntuthuko</summary>
 
-ADD TEXT HERE
+Ntuthuko Ngcobo is a BSc Agric student conducting his final-year research project on ergot of grain sorghum, focusing on the identification of the species involved and evaluating the performance of in vitro fungicide treatments.
 
 </details>
 </div>
@@ -487,7 +489,7 @@ ADD TEXT HERE
 <details class="team-details">
 <summary>More about Neo</summary>
 
-ADD TEXT HERE
+Neo (Victor) Hlongwane is a successful MSc Agric graduate. He is currently employed at Barenbrug South Africa as a Coating Quality Controller within the Research and Development division, contributing to quality assurance and innovation in seed coating technologies.
 
 </details>
 </div>
@@ -502,7 +504,7 @@ ADD TEXT HERE
 <details class="team-details">
 <summary>More about Marlese</summary>
 
-ADD TEXT HERE
+Marlese (Bester) Meiring completed both her MSc (cum laude) in Plant Health Ecology and her PhD in Plant Pathology, focusing on Sclerotinia sclerotiorum in sunflower and soybean systems. Her MSc research addressed inoculation techniques and evaluation methodologies for head and stem rot, while her PhD investigated disease potential and management responses in soybean and sunflower under the supervision of Dr Rothmann. She is currently employed as a QA Auditor at FARMOVS. 
 
 </details>
 </div>
@@ -517,7 +519,7 @@ ADD TEXT HERE
 <details class="team-details">
 <summary>More about Thabiso (MSc)</summary>
 
-ADD TEXT HERE
+Thabiso Masisi completed his MSc Agric in Plant Pathology, where he investigated the effect of decortication on sorghum grain mould fungi and associated mycotoxins, co-supervised by Dr Mariette Jackson (Botany). He is currently pursuing his PhD, continuing his work in fungal ecology and mycotoxin research within grain systems.
 
 </details>
 </div>
@@ -560,7 +562,7 @@ ADD TEXT HERE
 <details class="team-details">
 <summary>More about Shalya</summary>
 
-ADD TEXT HERE
+Shalya Moodley was responsible for developing and refining the group’s diagnostic pipeline and standard operating procedures, maintaining the culture collection, and establishing identification protocols for Cercospora in soybean seed. She also contributed to general laboratory management and quality control, and is now pursuing her PhD in Sweden.
 
 </details>
 </div>
@@ -575,7 +577,7 @@ ADD TEXT HERE
 <details class="team-details">
 <summary>More about Marais</summary>
 
-ADD TEXT HERE
+Marais Cloete was responsible for coordinating oilseed disease surveys for two years and overseeing field trial maintenance across sites, including inoculum preparation, field inoculations, and disease scoring. He contributed data to surveillance dashboards and assisted with progress reports and industry summaries, while also writing popular articles and supporting the translation of scientific findings for broader audiences. Marais regularly engaged with producers through farmer days and industry events, strengthening working relationships between the research group, industry partners, and the Agricultural Research Council. 
 
 </details>
 </div>
