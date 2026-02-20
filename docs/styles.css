@@ -167,3 +167,23 @@
 [data-bs-theme="dark"] textarea::placeholder {
   color: rgba(255,255,255,0.55);
 }
+
+
+#collaborators ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#collaborators ul li {
+  margin-bottom: 0.5rem;
+  padding-left: 1rem;
+  position: relative;
+}
+
+#collaborators ul li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+}
+
+

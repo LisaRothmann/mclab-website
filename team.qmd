@@ -364,114 +364,38 @@ Ntuthuko Ngcobo is a BSc Agric student conducting his final-year research projec
 
 # Collaborators & Co-workers
 
-<div class="team-grid">
+## Agricultural Research Council – Grain Crops Institute  
 
-<div class="team-card collab-card">
-<img src="images/team/annelie.jpg" class="team-photo">
+- Dr Belinda Janse van Rensburg 
+- Annelie de Beer  
+- Ms Lucia Ndlala  
+- Dr Safia Ma'ali  
+- Lizette Bronkhorst  
 
-### Annelie de Beer  
-**ARC–GCI**  
-Soybean Agronomist
+## Brandon University
 
-<details class="team-details">
-<summary>More about Annelie</summary>
+- Professor Bryan Cassone  
 
-ADD TEXT HERE
+## Stellenbosch University
 
-</details>
-</div>
+- Dr Diane Mostert  
+- Dr Lindy Rose  
 
-<div class="team-card collab-card">
-<img src="images/team/lizette-b.jpg" class="team-photo">
+## University of Pretoria – FABI
 
-### Lizette Bronkhorst  
-**ARC–GCI**  
-Soybean Agronomist
+- Dr David Nsibo
 
-<details class="team-details">
-<summary>More about Lizette B.</summary>
+## University of the Free State
 
-ADD TEXT HERE
+- Dr Chrisna Steyn  
+- Dr Mariette Jackson  
+- Dr Mpho Mafa  
+- Professor Adre Minnaar-Ontong  
+- Professor Andre Pelser  
 
-</details>
-</div>
+## Western Cape Department of Agriculture
 
-<div class="team-card collab-card">
-<img src="images/team/belinda.jpg" class="team-photo">
-
-### Dr Belinda Janse van Rensburg  
-**ARC–GCI**  
-Plant Pathologist
-
-<details class="team-details">
-<summary>More about Belinda</summary>
-
-ADD TEXT HERE
-
-</details>
-</div>
-
-<div class="team-card collab-card">
-<img src="images/team/david.jpg" class="team-photo">
-
-### Dr David Nsibo  
-**UP–FABI**  
-Plant Pathologist
-
-<details class="team-details">
-<summary>More about David</summary>
-
-ADD TEXT HERE
-
-</details>
-</div>
-
-<div class="team-card collab-card">
-<img src="images/team/diane.jpg" class="team-photo">
-
-### Dr Diane Mostert  
-**Stellenbosch University**  
-Plant Pathologist
-
-<details class="team-details">
-<summary>More about Diane</summary>
-
-ADD TEXT HERE
-
-</details>
-</div>
-
-<div class="team-card collab-card">
-<img src="images/team/safia.jpg" class="team-photo">
-
-### Dr Safia Ma'ali  
-**ARC–GCI**  
-Sunflower Agronomist
-
-<details class="team-details">
-<summary>More about Safia</summary>
-
-ADD TEXT HERE
-
-</details>
-</div>
-
-<div class="team-card collab-card">
-<img src="images/team/lizette.jpg" class="team-photo">
-
-### Lizette Nowers  
-**Western Cape Department of Agriculture**  
-Head Agricultural Technician
-
-<details class="team-details">
-<summary>More about Lizette N.</summary>
-
-ADD TEXT HERE
-
-</details>
-</div>
-
-</div>
+- Ms Lizette Nowers  
 
 ---
 
