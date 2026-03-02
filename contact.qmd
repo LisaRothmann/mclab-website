@@ -7,11 +7,11 @@ body-class: contact-page
 ## Contact us
 
 ::: contact-box
-For general enquiries about the McLab Field Pathology & Epidemiology Group:
+For general enquiries about the McLab Field Pathoogy & Epidemiology Group:
 
 Email: <a href="mailto:your.email@ufs.ac.za">coetzeeLA\@ufs.ac.za</a>
 
-You can find us on the University of the Free State Bloemfontein campus, at the heart of the Free State province, in South Africa. 
+You can find us on the Bloemfontein campus of the [University of the Free State](https://www.ufs.ac.za), at the heart of the Free State province, in South Africa.
 :::
 
 ## Work with us
