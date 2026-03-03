@@ -1,0 +1,34 @@
+---
+title: "Protecting at-risk sunflower from Sclerotinia with desiccation"
+description: "Exploring premature desiccation as an intervention against Sclerotinia head rot in sunflower"
+image: ../images/projects/head-rot-sad-proj.jpg
+categories: [Current]
+date: 2025-11-07
+---
+
+## Overview
+
+A sunflower producer contacted us with a question:
+
+> “Can I save my crop? My sunflower are beautiful, but there is Sclerotinia head rot in the field, and the weather forecast looks favourable for further disease development. If I spray with a herbicide registered for sunflower, can I limit the losses?”
+
+This field-based management dilemma was translated into a structured research question around whether desiccation could play a role in limiting further disease impact under conducive epidemic conditions.
+
+This project forms part of [Kwanele Sabela](../team.html#kwanele-sabela)’s MSc Agric research and investigates whether and when desiccation may be used to protect at-risk sunflower against Sclerotinia head rot. The work includes in vitro evaluation of diquat against _Sclerotinia sclerotiorum_ as well as two seasons of multi-planting field trials to assess epidemiological, agronomic, and economic outcomes.
+
+## Key questions
+
+- Does diquat have an inhibitory effect on _Sclerotinia sclerotiorum_ in vitro?  
+- Will diquat “protect” the yield of at-risk sunflower infected with Sclerotinia?  
+- If yield can be “protected”, when is the critical time to spray for the intervention to remain economical?  
+- If herbicides are applied, are protein and oil quality and quantity affected?  
+- What does this look like for the farmers wallet? 
+
+## Outputs
+
+- Extension articles
+  - [Oilseeds Focus Vol 12 No 1 (March 2026), pages 16–17](https://www.opot.co.za/imgs/oilseeds-focus/2026/oilseeds-focus-vol-12-no-1-march-2026.pdf#page=16)
+
+## Status
+
+On-going, and Kwanele graduated with distinction.
