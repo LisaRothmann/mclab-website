@@ -1,7 +1,7 @@
 ---
 title: "Protecting at-risk sunflower from Sclerotinia with desiccation"
 description: "Exploring premature desiccation as an intervention against Sclerotinia head rot in sunflower"
-image: ../images/projects/head-rot-sad-proj.jpg
+image: ../images/projects/head-rot-desicc-proj.jpg
 categories: [Current]
 date: 2025-11-07
 ---
