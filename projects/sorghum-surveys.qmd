@@ -1,0 +1,48 @@
+---
+title: "Surveying sorghum diseases across production regions"
+description: "Documenting disease occurrence, farmer experiences, and pathogen diversity in South African sorghum production systems"
+image: ../images/projects/sorghum-survey-2026.jpg
+categories: [Current]
+date: 2025-11-07
+---
+
+## Overview
+
+Sorghum remains an important crop in South Africa, yet relatively little consolidated information is available on the diseases affecting production across different regions, seasons, and farming contexts. Producers and industry stakeholders need a clearer understanding of which diseases are present, where they occur, how frequently they are observed, and what constraints they pose to production.
+
+This project was developed to strengthen that understanding through coordinated field surveys, farmer engagement, and pathogen diagnostics. It brings together disease surveillance in sorghum production regions with laboratory-based identification and characterisation of associated fungal pathogens.
+
+This project forms part of [Thabiso Masisi](../team.html#thabiso-masisi)’s PhD research and [Nomvula Moloi](../team.html#nomvula-moloi)’s MSc Agric research. Together, the work aims to document the distribution and diversity of sorghum diseases and their associated pathogens, while also considering farmer observations and production realities in the field.
+
+## Key questions
+
+- Which diseases are currently affecting sorghum in the surveyed production regions?  
+- How frequently are these diseases observed, and how do they vary across locations and seasons?  
+- Which fungal pathogens are associated with diseased sorghum tissues collected during surveys?  
+- How diverse are the pathogen populations based on diagnostic assays, phylogenetic analysis, and next-generation sequencing (NGS)? 
+- What production challenges do farmers associate with sorghum diseases, and where are the most important knowledge gaps?  
+
+## Collaborations 
+Professor Bryan Cassone (Department of Biology, Brandon University) collaborates on the bioinformatics component of this work. As part of this partnership, Thabiso Masisi visited Brandon University to conduct next-generation sequencing data analysis, supported through the Globalink Research Internship (Mitacs) and an National Research Foundation of South Africa Equipment and Training Grant.
+
+This project would not have been possible without the willingness of producers to share access to their fields, observations, and knowledge. We are deeply grateful for their trust and collaboration. The project integrates a social science perspective through collaboration with Professor Andre Pelser and Professor Sethulego Matebesi, who contribute to the sociological analysis of sorghum production systems and farmer experiences. Importantly, this work is conducted in close partnership with Grain SA, Sorgho Pty Ltd, and their producer networks. 
+
+## Outputs
+
+- Extension articles
+  - [Grain sorghum diseases – its current status in South Africa](https://sagrainmag.co.za/2024/03/04/grain-sorghum-diseases-its-current-status-in-south-africa/)
+  - [Fungi associated with sorghum GRAIN from contrasting production systems](https://sagrainmag.co.za/2025/09/01/fungi-associated-with-sorghum-grain-from-contrasting-production-systems/)
+
+## Status
+
+On-going
+
+## Funders 
+
+- Sorghum Trust 
+- National Research Foundation: Thuthuka Fund (TK220323450)
+- National Research Foundation: Bursary | MND210608609151
+- Human Capital Development Fund
+
+
+
