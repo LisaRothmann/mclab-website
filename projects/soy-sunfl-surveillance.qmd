@@ -1,44 +1,19 @@
 ---
-title: "Soybean and Sunflower Disease Surveillance"
-description: "Building a surveillance platform for soybean and sunflower diseases through the National Cultivar Trials"
-image: ../images/projects/soy-sunflower-surveillance.png
+title: "Can remote sensing be used to detect Sclerotinia stem rot in soybean?"
+description: "Assessing the use of UAV imagery and spectral indices for detecting Sclerotinia stem rot in soybean to support improved disease monitoring."
+image: ../images/projects/scl-remote-sensing.png
 categories: [Current]
 date: 2026-03-11
 ---
 
 ## Overview
 
-This project focuses on early-stage regional surveillance of soybean and sunflower diseases in South Africa. The work currently builds on observations collected during the Agricultural Research Council's - National Cultivar Trials for soybean and sunflower, allowing disease data to be recorded alongside across multiple locations.
+This project investigates whether remote sensing technologies can be used to detect and monitor **Sclerotinia stem rot in soybean** under field conditions. The study explores the potential of drone-based imagery and spectral indices to identify disease-affected areas and support improved disease monitoring and management.
 
-At present, the project is primarily observational and focuses on establishing baseline knowledge of disease occurrence, distribution, and seasonal dynamics. As the platform develops, it is intended to expand to include molecular diagnostics, pathogen characterisation, and population studies. We also see this platform as an opportunity for collaboration and welcome new ideas from future collaborators that can build on and extend this work.
+Remote sensing approaches may provide new opportunities to complement traditional field scouting by allowing larger areas to be monitored more efficiently and by identifying spatial patterns of disease development.
 
-## Focus areas
-
-- Field-based surveillance of key diseases affecting soybean and sunflower production systems.  
-- Documentation of disease occurrence across locations participating in the National Cultivar Trials.  
-- Integration of molecular diagnostics and pathogen identification as the project evolves.  
-- Development of a platform that can support future resistance screening and early detection tools.
-  
-
-## Collaboration and support
-This project is supported by the technical efforts of our laboratory and field technicians who assist with disease observations, sampling, and data management. Their contributions are essential to building this surveillance platform.
-
-We are grateful for funding and support from:
-
-- The **Department of Science, Technology and Innovation (DSTI)**  
-- The **Technology Innovation Agency (TIA)**  
-- The **Oil and Protein Seeds Development Trust (OPDT)**  
-- The **Oilseeds Advisory Committee (OAC)**  
-- The **South African Cultivar and Technology Agency (SACTA)**  
-- **Grain SA**
-
-Their support enables the development of surveillance platforms that strengthen disease awareness, research capacity, and future management strategies for South African producers.
-
-## Outputs
-- [Soybean and sunflower disease surveillance for 2024/2025 season](https://sagrainmag.co.za/2025/12/13/soybean-and-sunflower-disease-surveillance-for-2024-2025-season/)
-- [Observations from sunflower and soybean disease surveillance](https://sagrainmag.co.za/2024/09/02/observations-from-sunflower-and-soybean-disease-surveillance/)
+This work forms part of the **MSc Agric research of [Marais Cloete](/team/marais-cloete.qmd)**. 
 
 ## Status
 
-- On-going 
-- Open to collaboration
+Details to be added in April 2026 as the project progresses and field data become available.

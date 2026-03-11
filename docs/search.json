@@ -172,7 +172,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Our projects span field trials, diagnostics, modelling and producer extension across multiple crops. Use the filters to view Current or Completed projects.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSoybean and Sunflower Disease Surveillance\n\n\n\nCurrent\n\n\n\nBuilding a surveillance platform for soybean and sunflower diseases through the National Cultivar Trials\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Sclerotinia head rot of sunflower\n\n\n\nCurrent\n\n\n\nDesigning and validating a standard area diagram to strengthen accuracy and reliability in assessing Sclerotinia head rot severity.\n\n\n\n\n\n\n\n\n\n\n\n\nProtecting at-risk sunflower from Sclerotinia with desiccation\n\n\n\nCurrent\n\n\n\nExploring premature desiccation as an intervention against Sclerotinia head rot in sunflower\n\n\n\n\n\n\n\n\n\n\n\n\nSurveying sorghum diseases across production regions\n\n\n\nCurrent\n\n\n\nDocumenting disease occurrence, farmer experiences, and pathogen diversity in South African sorghum production systems\n\n\n\n\n\nNo matching items"
+    "text": "Our projects span field trials, diagnostics, modelling and producer extension across multiple crops. Use the filters to view Current or Completed projects.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSoybean and Sunflower Disease Surveillance\n\n\n\nCurrent\n\n\n\nBuilding a surveillance platform for soybean and sunflower diseases through the National Cultivar Trials\n\n\n\n\n\n\n\n\n\n\n\n\nCan remote sensing be used to detect Sclerotinia stem rot in soybean?\n\n\n\nCurrent\n\n\n\nAssessing the use of UAV imagery and spectral indices for detecting Sclerotinia stem rot in soybean to support improved disease monitoring.\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Sclerotinia head rot of sunflower\n\n\n\nCurrent\n\n\n\nDesigning and validating a standard area diagram to strengthen accuracy and reliability in assessing Sclerotinia head rot severity.\n\n\n\n\n\n\n\n\n\n\n\n\nProtecting at-risk sunflower from Sclerotinia with desiccation\n\n\n\nCurrent\n\n\n\nExploring premature desiccation as an intervention against Sclerotinia head rot in sunflower\n\n\n\n\n\n\n\n\n\n\n\n\nSurveying sorghum diseases across production regions\n\n\n\nCurrent\n\n\n\nDocumenting disease occurrence, farmer experiences, and pathogen diversity in South African sorghum production systems\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "updates/2025-11-lab-opening.html",
@@ -331,16 +331,16 @@
   {
     "objectID": "projects/soy-sunfl-surveillance.html",
     "href": "projects/soy-sunfl-surveillance.html",
-    "title": "Soybean and Sunflower Disease Surveillance",
+    "title": "Can remote sensing be used to detect Sclerotinia stem rot in soybean?",
     "section": "",
-    "text": "This project focuses on early-stage regional surveillance of soybean and sunflower diseases in South Africa. The work currently builds on observations collected during the Agricultural Research Council’s - National Cultivar Trials for soybean and sunflower, allowing disease data to be recorded alongside across multiple locations.\nAt present, the project is primarily observational and focuses on establishing baseline knowledge of disease occurrence, distribution, and seasonal dynamics. As the platform develops, it is intended to expand to include molecular diagnostics, pathogen characterisation, and population studies. We also see this platform as an opportunity for collaboration and welcome new ideas from future collaborators that can build on and extend this work."
+    "text": "This project investigates whether remote sensing technologies can be used to detect and monitor Sclerotinia stem rot in soybean under field conditions. The study explores the potential of drone-based imagery and spectral indices to identify disease-affected areas and support improved disease monitoring and management.\nRemote sensing approaches may provide new opportunities to complement traditional field scouting by allowing larger areas to be monitored more efficiently and by identifying spatial patterns of disease development.\nThis work forms part of the MSc Agric research of Marais Cloete."
   },
   {
     "objectID": "projects/soy-sunfl-surveillance.html#overview",
     "href": "projects/soy-sunfl-surveillance.html#overview",
-    "title": "Soybean and Sunflower Disease Surveillance",
+    "title": "Can remote sensing be used to detect Sclerotinia stem rot in soybean?",
     "section": "",
-    "text": "This project focuses on early-stage regional surveillance of soybean and sunflower diseases in South Africa. The work currently builds on observations collected during the Agricultural Research Council’s - National Cultivar Trials for soybean and sunflower, allowing disease data to be recorded alongside across multiple locations.\nAt present, the project is primarily observational and focuses on establishing baseline knowledge of disease occurrence, distribution, and seasonal dynamics. As the platform develops, it is intended to expand to include molecular diagnostics, pathogen characterisation, and population studies. We also see this platform as an opportunity for collaboration and welcome new ideas from future collaborators that can build on and extend this work."
+    "text": "This project investigates whether remote sensing technologies can be used to detect and monitor Sclerotinia stem rot in soybean under field conditions. The study explores the potential of drone-based imagery and spectral indices to identify disease-affected areas and support improved disease monitoring and management.\nRemote sensing approaches may provide new opportunities to complement traditional field scouting by allowing larger areas to be monitored more efficiently and by identifying spatial patterns of disease development.\nThis work forms part of the MSc Agric research of Marais Cloete."
   },
   {
     "objectID": "projects/soy-sunfl-surveillance.html#focus-areas",
@@ -366,6 +366,48 @@
   {
     "objectID": "projects/soy-sunfl-surveillance.html#status",
     "href": "projects/soy-sunfl-surveillance.html#status",
+    "title": "Can remote sensing be used to detect Sclerotinia stem rot in soybean?",
+    "section": "Status",
+    "text": "Status\nDetails to be added in April 2026 as the project progresses and field data become available."
+  },
+  {
+    "objectID": "projects/sclerotinia-remote-sensing.html",
+    "href": "projects/sclerotinia-remote-sensing.html",
+    "title": "Soybean and Sunflower Disease Surveillance",
+    "section": "",
+    "text": "This project focuses on early-stage regional surveillance of soybean and sunflower diseases in South Africa. The work currently builds on observations collected during the Agricultural Research Council’s - National Cultivar Trials for soybean and sunflower, allowing disease data to be recorded alongside across multiple locations.\nAt present, the project is primarily observational and focuses on establishing baseline knowledge of disease occurrence, distribution, and seasonal dynamics. As the platform develops, it is intended to expand to include molecular diagnostics, pathogen characterisation, and population studies. We also see this platform as an opportunity for collaboration and welcome new ideas from future collaborators that can build on and extend this work."
+  },
+  {
+    "objectID": "projects/sclerotinia-remote-sensing.html#overview",
+    "href": "projects/sclerotinia-remote-sensing.html#overview",
+    "title": "Soybean and Sunflower Disease Surveillance",
+    "section": "",
+    "text": "This project focuses on early-stage regional surveillance of soybean and sunflower diseases in South Africa. The work currently builds on observations collected during the Agricultural Research Council’s - National Cultivar Trials for soybean and sunflower, allowing disease data to be recorded alongside across multiple locations.\nAt present, the project is primarily observational and focuses on establishing baseline knowledge of disease occurrence, distribution, and seasonal dynamics. As the platform develops, it is intended to expand to include molecular diagnostics, pathogen characterisation, and population studies. We also see this platform as an opportunity for collaboration and welcome new ideas from future collaborators that can build on and extend this work."
+  },
+  {
+    "objectID": "projects/sclerotinia-remote-sensing.html#focus-areas",
+    "href": "projects/sclerotinia-remote-sensing.html#focus-areas",
+    "title": "Soybean and Sunflower Disease Surveillance",
+    "section": "Focus areas",
+    "text": "Focus areas\n\nField-based surveillance of key diseases affecting soybean and sunflower production systems.\n\nDocumentation of disease occurrence across locations participating in the National Cultivar Trials.\n\nIntegration of molecular diagnostics and pathogen identification as the project evolves.\n\nDevelopment of a platform that can support future resistance screening and early detection tools."
+  },
+  {
+    "objectID": "projects/sclerotinia-remote-sensing.html#collaboration-and-support",
+    "href": "projects/sclerotinia-remote-sensing.html#collaboration-and-support",
+    "title": "Soybean and Sunflower Disease Surveillance",
+    "section": "Collaboration and support",
+    "text": "Collaboration and support\nThis project is supported by the technical efforts of our laboratory and field technicians who assist with disease observations, sampling, and data management. Their contributions are essential to building this surveillance platform.\nWe are grateful for funding and support from:\n\nThe Department of Science, Technology and Innovation (DSTI)\n\nThe Technology Innovation Agency (TIA)\n\nThe Oil and Protein Seeds Development Trust (OPDT)\n\nThe Oilseeds Advisory Committee (OAC)\n\nThe South African Cultivar and Technology Agency (SACTA)\n\nGrain SA\n\nTheir support enables the development of surveillance platforms that strengthen disease awareness, research capacity, and future management strategies for South African producers."
+  },
+  {
+    "objectID": "projects/sclerotinia-remote-sensing.html#outputs",
+    "href": "projects/sclerotinia-remote-sensing.html#outputs",
+    "title": "Soybean and Sunflower Disease Surveillance",
+    "section": "Outputs",
+    "text": "Outputs\n\nSoybean and sunflower disease surveillance for 2024/2025 season\nObservations from sunflower and soybean disease surveillance"
+  },
+  {
+    "objectID": "projects/sclerotinia-remote-sensing.html#status",
+    "href": "projects/sclerotinia-remote-sensing.html#status",
     "title": "Soybean and Sunflower Disease Surveillance",
     "section": "Status",
     "text": "Status\n\nOn-going\nOpen to collaboration"
