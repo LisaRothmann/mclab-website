@@ -16,6 +16,10 @@ website:
         text: Meet the Team
       - href: projects.qmd
         text: Projects
+      - href: extension.qmd
+        text: Extension
+      - href: teaching and learning.qmd
+        text: Teaching & Learning 
       - href: updates.qmd
         text: What We Are Up To
       - href: acknowledgments.qmd
