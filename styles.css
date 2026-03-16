@@ -22,11 +22,23 @@
   max-width: 40rem;
 }
 
-/* ---------- Navbar logo ---------- */
+/* ---------- Navbar ---------- */
+
+.navbar-brand {
+  font-size: 1.15rem;
+  white-space: nowrap;
+}
 
 .navbar-brand img {
   max-height: 42px;
   width: auto;
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.92rem;
+  padding-left: 0.45rem !important;
+  padding-right: 0.45rem !important;
+  white-space: nowrap;
 }
 
 /* =========================================
@@ -128,15 +140,15 @@
 }
 
 /* Category accent colours (border-left) */
-.pi-card     { border-left: 6px solid #1446a0; }  /* deep blue */
+.pi-card      { border-left: 6px solid #1446a0; }  /* deep blue */
 .postdoc-card { border-left: 6px solid #6eb437; }  /* light green */
-.tech-card   { border-left: 6px solid #00964f; }  /* strong green */
-.phd-card    { border-left: 6px solid #f08200; }  /* orange */
-.msc-card    { border-left: 6px solid #f0e628; }  /* yellow */
-.hons-card   { border-left: 6px solid #8fd17f; }  /* soft light green */
-.grad-card   { border-left: 6px solid #777777; }  /* grey */
-.past-card   { border-left: 6px solid #b0b0b0; }  /* light grey */
-.collab-card { border-left: 6px solid #6eb437; }  /* same as postdoc */
+.tech-card    { border-left: 6px solid #00964f; }  /* strong green */
+.phd-card     { border-left: 6px solid #f08200; }  /* orange */
+.msc-card     { border-left: 6px solid #f0e628; }  /* yellow */
+.hons-card    { border-left: 6px solid #8fd17f; }  /* soft light green */
+.grad-card    { border-left: 6px solid #777777; }  /* grey */
+.past-card    { border-left: 6px solid #b0b0b0; }  /* light grey */
+.collab-card  { border-left: 6px solid #6eb437; }  /* same as postdoc */
 
 /* Details summary styling */
 .team-details summary {
@@ -155,6 +167,7 @@
    Optional: form fields in dark mode
    (harmless if you don't have forms)
    ========================================= */
+
 [data-bs-theme="dark"] input,
 [data-bs-theme="dark"] textarea,
 [data-bs-theme="dark"] select {
@@ -168,6 +181,7 @@
   color: rgba(255,255,255,0.55);
 }
 
+/* ---------- Collaborators list ---------- */
 
 #collaborators ul {
   list-style-type: none;
@@ -186,6 +200,7 @@
   left: 0;
 }
 
+/* ---------- Wrapped image gallery ---------- */
 
 .wrapped-gallery {
   float: right;
@@ -218,6 +233,7 @@
   }
 }
 
+/* ---------- Floating image with caption ---------- */
 
 .float-image-right {
   float: right;
@@ -250,36 +266,7 @@
   clear: both;
 }
 
-.update-gallery {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
-  margin-top: 2rem;
-}
-
-.update-gallery img {
-  width: 100%;
-  border-radius: 10px;
-}
-
-
-.full-image {
-  width: 100%;
-  margin: 1.5rem 0;
-}
-
-.full-image img {
-  width: 100%;
-  height: auto;
-  display: block;
-  border-radius: 10px;
-}
-
-.full-image figcaption {
-  font-size: 0.85rem;
-  color: #666;
-  margin-top: 0.5rem;
-}
+/* ---------- Update gallery ---------- */
 
 .update-gallery {
   display: grid;
@@ -299,4 +286,24 @@
 
 .img-tall {
   grid-row: span 2;
+}
+
+/* ---------- Full-width image blocks ---------- */
+
+.full-image {
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+.full-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+}
+
+.full-image figcaption {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 0.5rem;
 }

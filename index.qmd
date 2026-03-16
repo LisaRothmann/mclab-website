@@ -39,9 +39,9 @@ We are committed to cultivating the next generation of researchers by creating o
 
 ## What we do
 
--   Field pathology and epidemiology across major crops and production regions
+-   Field pathology and epidemiology across major summer grain crops and production regions
 
--   Sclerotinia research in oilseed and protein crops
+-   _Sclerotinia_ research in oilseed and protein crops
 
 -   Sorghum disease pathology and diagnostic support
 
@@ -59,6 +59,6 @@ We are committed to cultivating the next generation of researchers by creating o
 
 -   [Meet the team »](team.qmd)\
 -   [Projects: current and completed »](projects.qmd)\
--   [Our grants, partners and acknowledgments »](acknowledgments.qmd)\
+-   [Our grants, partners and acknowledgements »](acknowledgements.qmd)\
 -   [Recent activities and updates »](updates.qmd)\
 -   [Contact us and explore collaboration »](contact.qmd)

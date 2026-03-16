@@ -4,7 +4,7 @@ project:
 
 website:
   site-url: https://mclab-plant-pathology.co.za
-  title: "McLab Field Pathology & Epidemiology Group"
+  title: "McLab Plant Pathology"
 
   navbar:
     left:
@@ -18,12 +18,12 @@ website:
         text: Projects
       - href: extension.qmd
         text: Extension
-      - href: teaching and learning.qmd
-        text: Teaching & Learning 
+      - href: teaching-learning.qmd
+        text: Teaching & Learning
       - href: updates.qmd
         text: What We Are Up To
-      - href: acknowledgments.qmd
-        text: Acknowledgments
+      - href: acknowledgements.qmd
+        text: Acknowledgements
       - href: contact.qmd
         text: Contact & Work With Us
 
@@ -32,7 +32,7 @@ format:
     theme:
       light: lux
       dark: darkly
-    css: styles.css      # ← plain CSS file
+    css: styles.css
     toc: true
 
 resources:
