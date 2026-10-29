@@ -5,23 +5,49 @@ description: "Our extension work is rooted in the belief that research should se
 
 ## What we do
 
--   Disease awareness and seasonal communication
--   Farmer-oriented talks and information days
--   Producer-facing summaries of research findings
--   Collaboration with industry and organised agriculture
--   Contributions to practical disease management discussions
+- Disease awareness and seasonal communication
+- Farmer-oriented talks and information days
+- Producer-facing summaries of research findings
+- Collaboration with industry and organised agriculture
+- Contributions to practical disease management discussions
 
-## Current focus areas
+## 
 
-to be added in April 2026.
+## Resources for producers {#producer-resources}
+
+Practical summaries of our research to support informed decisions alongside local agronomic advice and registered product labels.
+
+:::: panel-tabset
+### Infographics
+
+::: {#desiccation-dilemma style="max-width: 650px; padding: 1.5rem; border: 1px solid #dce3dd; border-left: 6px solid #31796b; border-radius: 12px; background-color: #f7f5ee; margin: 1rem 0;"}
+#### The Desiccation Dilemma
+
+**Sunflower \| Sclerotinia head rot**
+
+Does reducing disease always protect yield? Explore findings from our Delmas field trials, application timings and key considerations for producers.
+
+[Read the infographic (PDF)](images/extension/desiccation%20infographic.pdf){.btn .btn-primary target="_blank" rel="noopener"}
+
+[Read more about the research project →](projects/2026-sunflower-head-rot-desiccation.qmd)
+:::
+
+### Articles
+
+#### Sunflower desiccation and Sclerotinia head rot
+
+Read our article in *Oilseeds Focus*, March 2026, pages 16–17.
+
+[Read the article (PDF)](https://www.opot.co.za/imgs/oilseeds-focus/2026/oilseeds-focus-vol-12-no-1-march-2026.pdf#page=16){.btn .btn-outline-primary target="_blank" rel="noopener"}
+::::
 
 ## How we engage
 
--   Farmer information days
--   Industry meetings
--   Popular articles
--   Practical summaries and visuals
--   Collaborative discussions with stakeholders
+- Farmer information days
+- Industry meetings
+- Popular articles
+- Practical summaries and visuals
+- Collaborative discussions with stakeholders
 
 ## Why this matters
 
@@ -30,3 +56,24 @@ Good extension builds trust, supports better decisions, and helps ensure that re
 ## Get in touch
 
 If you are interested in collaborating, inviting the group to contribute to a farmer day, or discussing disease-related challenges in the field, please reach out via the contact page.
+
+```{=html}
+<style>
+#desiccation-dilemma,
+#desiccation-dilemma h4,
+#desiccation-dilemma p,
+#desiccation-dilemma strong {
+  color: #213d38 !important;
+}
+
+#desiccation-dilemma a:not(.btn) {
+  color: #226354 !important;
+}
+
+#desiccation-dilemma .btn-primary {
+  background-color: #226354;
+  border-color: #226354;
+  color: #ffffff !important;
+}
+</style>
+```

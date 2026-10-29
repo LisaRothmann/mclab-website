@@ -28,6 +28,10 @@ This project forms part of [Kwanele Sabela](../team.html#kwanele-sabela)’s MSc
 
 - Extension articles
   - [Oilseeds Focus Vol 12 No 1 (March 2026), pages 16–17](https://www.opot.co.za/imgs/oilseeds-focus/2026/oilseeds-focus-vol-12-no-1-march-2026.pdf#page=16)
+- Producer infographic
+  - [The Desiccation Dilemma](../extension.qmd#desiccation-dilemma):
+    Field trial results, application timings and practical considerations
+    for sunflower producers.
 
 ## Status
 
